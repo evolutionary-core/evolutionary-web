@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "material-components-web": "^0.35.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.6",
+    "vue-mdc-adapter": "^0.15.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
@@ -22,8 +24,10 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "fibers": "^3.1.1",
+    "node-sass": "^4.9.0",
     "sass": "^1.17.2",
     "sass-loader": "^7.1.0",
+    "vue-cli-plugin-material": "^0.2.3",
     "vue-template-compiler": "^2.5.21"
   }
 }
