@@ -34,7 +34,10 @@
   @import "@material/typography/mixins";
   @import "vue-mdc-adapter/dist/toolbar/styles";
   @import "vue-mdc-adapter/dist/drawer/styles";
+  @import "vue-mdc-adapter/dist/select/styles";
+  @import "vue-mdc-adapter/dist/button/styles"; 
   @import "vue-mdc-adapter/dist/list/styles";
+  @import "vue-mdc-adapter/dist/layout-grid/styles";
   html {
     width: 100%;
     height: 100%;

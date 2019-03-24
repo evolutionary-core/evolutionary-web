@@ -1,18 +1,18 @@
 <template>
     <div id="banner">
         <img src="@/assets/logo.png" alt="evolutionary logo" />
-        <h2> <span>Dictionary of evolution</span></h2>
+        <h2> <span>Dictionary + evolution</span></h2>
     </div>
 </template>
 <style lang="scss" scoped>
 $mdc-theme-primary: #118855;
 #banner {
     width: calc(100% - 2em);
-    height: 400px;
+    height: 350px;
     color: white;
-    background: $mdc-theme-primary url("http://www.stickpng.com/assets/images/580b57fbd9996e24bc43bbbd.png");
+    background: $mdc-theme-primary url("../assets/trex.png");
     background-repeat: no-repeat;
-    background-position: right 100px;
+    background-position: right 50px;
     background-attachment: fixed;
     padding: 1em;
     img {
@@ -24,6 +24,7 @@ $mdc-theme-primary: #118855;
         padding: 2px;
         margin-top: 20px;
         text-align: center;
+        line-height: 35px;
         &::after{
             content: "";
             display: block;
@@ -35,7 +36,9 @@ $mdc-theme-primary: #118855;
         span {
             background: $mdc-theme-primary;
             padding: 5px;
-            border-radius: 10px;
+            padding-right: 20px;
+            padding-left: 20px;
+            border-radius: 20px;
         }
     }
 }
