@@ -5,8 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "gh-pages": "vue-cli-service gh-pages"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "material-components-web": "^0.35.0",
@@ -28,7 +27,6 @@
     "node-sass": "^4.9.0",
     "sass": "^1.17.2",
     "sass-loader": "^7.1.0",
-    "vue-cli-plugin-gh-pages": "^0.4.0",
     "vue-cli-plugin-material": "^0.2.3",
     "vue-template-compiler": "^2.5.21"
   }
