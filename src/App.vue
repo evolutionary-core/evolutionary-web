@@ -62,7 +62,7 @@
   @keyframes breezeIn {
     from {
       opacity: 0;
-      transform: translateY(100px);
+      transform: translateY(10px);
     }
     to {
       opacity: 1;
@@ -76,7 +76,7 @@
     }
     to {
       opacity: 0;
-      transform: translateY(100px);
+      transform: translateY(10px);
     }
   }
 </style>
