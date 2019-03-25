@@ -1,0 +1,361 @@
+{
+    "id": "fish",
+    "evolution_data": [
+        {
+            "period": "Cambrian",
+            "upper": "541 Mya",
+            "lower": "485 Mya",
+            "data": [
+                {
+                    "name": "Pikaia",
+                    "description": "Pikaia, along with Myllokunmingia and Haikouichthys ercaicunensis immediately below, are all candidates in the fossil record for the titles of first vertebrate and first fish. Pikaia is a genus that appeared about 530 Ma during the Cambrian explosion of multicellular life. Pikaia gracilens (pictured) is a transitional fossil between invertebrates and vertebrates, and may be the earliest known chordate. In this sense it may have been the original ancestor of fishes. It was a primitive creature with no evidence of eyes, without a well defined head, and less than 2 inches (5 centimetres) long. Pikaia was a sideways-flattened, leaf-shaped animal that swam by throwing its body into a series of S-shaped, zig-zag curves, similar to movement of snakes. Fish inherited the same swimming movement, but they generally have stiffer backbones. It had a pair of large head tentacles and a series of short appendages, which may be linked to gill slits, on either side of its head. Pikaia shows the essential prerequisites for vertebrates. The flattened body is divided into pairs of segmented muscle blocks, seen as faint vertical lines. The muscles lie on either side of a flexible structure resembling a rod that runs from the tip of the head to the tip of the tail.",
+                    "url": "https://i.pinimg.com/originals/5a/b9/81/5ab981d9e24f007cd0643357161da684.jpg"
+                },
+                {
+                    "name": "Haikouichthys",
+                    "description": "Haikouichthys (fish from Haikou) is another genus that also appears in the fossil record about 530 Ma, and also marks the transition from invertebrate to vertebrates. Haikouichthys are craniates (animals with backbones and distinct heads). Unlike Pikaia, they had eyes. They also had a defined skull and other characteristics that have led paleontologists to label it a true craniate, and even to be popularly characterized as one of the earliest fishes. Cladistic analysis indicates that the animal is probably a basal chordate or a basal craniate; but it does not possess sufficient features to be included uncontroversially even in either stem group.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Haikouichthys_NT.jpg"
+                },
+                {
+                    "name": "Myllokunmingia",
+                    "description": "Myllokunmingia is a genus that appeared about 530 Ma. It is a chordate, and it has been argued that it is a vertebrate, It is 28 mm long and 6 mm high, and is among the oldest possible craniates.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/6/63/Myllokunmingia-small.jpg/revision/latest?cb=20130625184852"
+                },
+                {
+                    "name": "Concodont",
+                    "description": "Conodonts (cone-teeth) resembled primitive eels. They appeared 495 Ma and were wiped out 200 Ma.[24] Initially they were known only from tooth-like microfossils called conodont elements. These teeth have been variously interpreted as filter-feeding apparatuses or as a grasping and crushing array.[25] Conodonts ranged in length from a centimeter to the 40 cm Promissum. Their large eyes had a lateral position of which makes a predatory role unlikely. The preserved musculature hints that some conodonts (Promissum at least) were efficient cruisers but incapable of bursts of speed. In 2012 researchers classify the conodonts in the phylum Chordata on the basis of their fins with fin rays, chevron-shaped muscles and notochord. Some researchers see them as vertebrates similar in appearance to modern hagfish and lampreys, though phylogenetic analysis suggests that they are more derived than either of these groups.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Euconodonta.gif"
+                },
+                {
+                    "name": "Ostracoderms",
+                    "description": "Ostracoderms (shell-skinned) are any of several groups of extinct, primitive, jawless fishes that were covered in an armour of bony plates. They appeared in the Cambrian, about 510 million years ago, and became extinct towards the end of the Devonian, about 377 million years ago. Initially Ostracoderms had poorly formed fins, and paired fins, or limbs, first evolved within this group. They were covered with a bony armour or scales and were often less than 30 cm (0.98 ft) long.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Osteostraci_Janvier.gif/220px-Osteostraci_Janvier.gif"
+                }
+            ]
+        },
+        {
+            "period": "Ordovician",
+            "upper": "485 Mya",
+            "lower": "443 Mya",
+            "data": [
+                {
+                    "name": "Arandaspis",
+                    "description": "Arandaspis are jawless fish that lived in the early Ordovician period, about 480–470 Ma. It was about 15 cm (6 in) long, with a streamlined body covered in rows of knobbly armoured scutes. The front of the body and the head were protected by hard plates with openings for the eyes, nostrils and gills. Although it was jawless, Arandaspis might have had some moveable plates in its mouth, serving as lips, sucking in food particles. The low position of its mouth suggests it foraged the ocean floor. It lacked fins and its only method of propulsion was its horizontally flattened tail. As a result, it probably swam in a fashion similar to a modern tadpole.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Arandaspis_NT.jpg"
+                },
+                {
+                    "name": "Astraspis",
+                    "description": "Astraspis (star shield) is an extinct genus of primitive jawless fish related to other Ordovician fishes, such as Sacabambaspis and Arandaspis. Fossils show clear evidence of a sensory structure (lateral line system). The arrangement of these organs in regular lines allows the fish to detect the direction and distance from which a disturbance in the water is coming. Arandaspis are thought to have had a mobile tail covered with small protective plates and a head region covered with larger plates. A specimen described by Sansom et al. had relatively large, lateral eyes and a series of eight gill openings on each side.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/c/c6/Astraspis_by_ntamura-d7fbwct.jpg/revision/latest?cb=20151211010226"
+                },
+                {
+                    "name": "Pteraspidomorphi",
+                    "description": "Pteraspidomorphi is an extinct class of early jawless fish. The fossils show extensive shielding of the head. Many had hypocercal tails to generate lift to increase ease of movement through the water for their armoured bodies, which were covered in dermal bone. They also had sucking mouth parts and some species may have lived in fresh water.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Larnovaspis_stensioei.jpg"
+                },
+                {
+                    "name": "Thelodonts",
+                    "description": "Thelodonts (nipple teeth) are a class of small, extinct jawless fishes with distinctive scales instead of large plates of armour. There is debate over whether these represent a monophyletic grouping, or disparate stem groups to the major lines of jawless and jawed fish. Thelodonts are united by their characteristic \"thelodont scales\". This defining character is not necessarily a result of shared ancestry, as it may have been evolved independently by different groups. Thus the thelodonts are generally thought to represent a polyphyletic group.If they are monophyletic, there is no firm evidence on what their ancestral state was. These scales were easily dispersed after death; their small size and resilience makes them the most common vertebrate fossil of their time. The fish lived in both freshwater and marine environments, first appearing during the Ordovician, and perishing during the Frasnian–Famennian extinction event of the Late Devonian. They were predominantly deposit-feeding bottom dwellers, although some species may have been pelagic.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Thelodonti.gif"
+                }
+            ]
+        },
+        {
+            "period": "Silurian",
+            "upper": "443 Mya",
+            "lower": "419 Mya",
+            "data": [
+                {
+                    "name": "Anaspida",
+                    "description": "Anaspida (without shield) is an extinct class of primitive jawless vertebrates that lived during the Silurian and Devonian periods. They are classically regarded as the ancestors of lampreys. Anaspids were small, primarily marine agnathans that lacked heavy bony shield and paired fins, but have highly exaggerated hypocercal tails. They first appeared in the early Silurian, and flourished until the Late Devonian extinction, where most species, save for lampreys, became extinct. Unusually for an agnathan, anaspids did not possess a bony shield or armour. The head is instead covered in an array of smaller, weakly mineralised scales.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lasanius_NT_small.jpg/220px-Lasanius_NT_small.jpg"
+                },
+                {
+                    "name": "Osteostraci",
+                    "description": "Osteostraci (\"bony shields\") was a class of bony-armored jawless fish that lived from the Middle Silurian to Late Devonian. Anatomically speaking, the osteostracans, especially the Devonian species, were among the most advanced of all known agnathans. This is due to the development of paired fins, and their complicated cranial anatomy. The osteostracans were more similar to lampreys than to jawed vertebrates in possessing two pairs of semicircular canals in the inner ear, as opposed to the three pairs found in the inner ears of jawed vertebrates.[64] Most osteostracans had a massive cephalothorac shield, but all Middle and Late Devonian species appear to have had a reduced, thinner, and often micromeric dermal skeleton. They were probably relatively good swimmers, possessing dorsal fins, paired pectoral fins, and a strong tail.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cephalaspis_species.jpg/220px-Cephalaspis_species.jpg"
+                },
+                {
+                    "name": "Spiny sharks",
+                    "description": "Spiny sharks, more formally called \"Acanthodians\" (having spines), constitute the class Acanthodii. They first appeared by the late Silurian ~420 Ma, and were among the first fishes to evolve jaws. They share features with both cartilaginous fish and bony fish, but they are not true sharks, though leading to them. They became extinct before the end of the Permian ~250 Ma. However, scales and teeth attributed to this group, as well as more derived jawed fish, such as cartilaginous and bony fish, date from the Ordovician ~460 Ma. Acanthodians were generally small shark-like fishes varying from toothless filter-feeders to toothed predators. They were once often classified as an order of the class Placodermi, but recent authorities tend to place the acanthodians as a paraphyletic assemblage leading to modern cartilaginous fish. They are distinguished in two respects: they were the earliest known jawed vertebrates, and they had stout spines supporting all their fins, fixed in place and non-movable (like a shark's dorsal fin), an important defensive adaptation. Their fossils are extremely rare.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Acanthodes_BW.jpg"
+                },
+                {
+                    "name": "Placoderms",
+                    "description": "Placoderms, (plate-like skin), are a group of armoured jawed fishes, of the class Placodermi. The oldest fossils appeared during the late Silurian, and became extinct at the end of the Devonian. Recent studies suggest that the placoderms are possibly a paraphyletic group of basal jawed fishes, and the closest relatives of all living jawed vertebrates. Some placoderms were small, flattened bottom-dwellers, such as antiarchs. However many, particularly the arthrodires, were active midwater predators. Dunkleosteus, which appeared later in the Devonian below, was the largest and most famous of these. The upper jaw was firmly fused to the skull, but there was a hinge joint between the skull and the bony plating of the trunk region. This allowed the upper part of the head to be thrown back and, in arthrodires, allowed them to take larger bites.",
+                    "url": "http://www.dinosaurjungle.com/focus_placoderm.jpg"
+                },
+                {
+                    "name": "Guiyu oneiros",
+                    "description": "Guiyu oneiros, the earliest known bony fish. It has the combination of both ray-finned and lobe-finned features, although analysis of the totality of its features place it closer to lobe-finned fish.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guiyu_BW.jpg"
+                },
+                {
+                    "name": "Andreolepis",
+                    "description": "The extinct genus Andreolepis includes the earliest known ray finned fish Andreolepis hedei, which appeared in the late Silurian, around 420 Ma.",
+                    "url": "https://i.pinimg.com/originals/1a/fe/f2/1afef27c586608fd70272b0510ce200a.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Early Devonian",
+            "upper": "419 Mya",
+            "lower": "383 Mya",
+            "data": [
+                {
+                    "name": "Psarolepis",
+                    "description": "Psarolepis (speckled scale) is a genus of extinct lobe-finned fish that lived around 397 to 418 Ma. Fossils of Psarolepis have been found mainly in South China and described by paleontologist Xiaobo Yu in 1998. It is not known for certain which group Psarolepis belongs, but paleontologists agree that it probably is a basal genus and seems to be close to the common ancestor of lobe-finned and ray-finned fishes.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Psarolepis_BW.jpg"
+                },
+                {
+                    "name": "Holoptychius",
+                    "description": "Holoptychius is an extinct genus from the order of porolepiform lobe-finned fish, extant from 416 to 359 Ma. It was a streamlined predator about 50 centimetres (20 in) long (though it could grow up to 2.5 m), which fed on other bony fish. Its rounded scales and body form indicate that it could have swum quickly through the water to catch prey. Similar to other rhipidistians, it had fang-like teeth on its palate in addition to smaller teeth on the jaws. Its asymmetrical tail sported a caudal fin on its lower end. To compensate for the downward push caused by this fin placement, Holoptychius's pectoral fins were placed high on the body.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holoptychius_BW.jpg/400px-Holoptychius_BW.jpg"
+                },
+                {
+                    "name": "Ptyctodontida",
+                    "description": "The ptyctodontids (beak-teeth) are an extinct monotypic order of unarmored placoderms, containing only one family. They were extant from the start to the end of the Devonian. With their big heads, big eyes, and long bodies, the ptyctodontids bore a strong resemblance to modern day chimaeras (Holocephali). Their armor was reduced to a pattern of small plates around the head and neck. Like the extinct and related acanthothoracids, and the living and unrelated holocephalians, most of the ptyctodontids are thought to have lived near the sea bottom and preyed on shellfish.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rhamphodopsis_threiplandi.jpg"
+                },
+                {
+                    "name": "Petalichthyida",
+                    "description": "The Petalichthyida was an order of small, flattened placoderms that existed from the beginning of the Devonian to the Late Devonian. They were typified by splayed fins and numerous tubercles that decorated all of the plates and scales of their armour. They reached a peak in diversity during the Early Devonian and were found throughout the world. Because they had compressed body forms, it is supposed they were bottom-dwellers that chased after or ambushed smaller fish. Their diet is not clear, as none of the fossil specimens found have preserved mouth parts.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lunaspis_broili.JPG/1200px-Lunaspis_broili.JPG"
+                },
+                {
+                    "name": "Laccognathus",
+                    "description": "Laccognathus (pitted jaw) was a genus of amphibious lobe-finned fish that existed 398–360 Ma. They were characterized by the three large pits (fossae) on the external surface of the lower jaw, which may have had sensory functions. Laccognathus grew to 1–2 metres (3–7 ft) in length. They had very short dorsoventrally flattened heads, less than one-fifth the length of the body. The skeleton was structured so large areas of skin were stretched over solid plates of bone. This bone was composed of particularly dense fibers – so dense that exchange of oxygen through the skin was unlikely. Rather, the dense ossifications served to retain water inside the body as Laccognathus traveled on land between bodies of water.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Laccognathus_embryi_-_reconstruction.jpg/220px-Laccognathus_embryi_-_reconstruction.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Middle Devonian",
+            "upper": "393 Mya",
+            "lower": "383 Mya",
+            "data": [
+                {
+                    "name": "Dipterus",
+                    "description": "Dipterus (two wings) is an extinct genus of lungfish from 376–361 Ma. It was about 35 centimetres (14 in) long, mostly ate invertebrates, and had lungs, not an air bladder. Like its ancestor Dipnorhynchus it had tooth-like plates on its palate instead of real teeth. However, unlike its modern relatives, in which the dorsal, caudal, and anal fin are fused into one, its fins were still separated. Otherwise Dipterus closely resembled modern lungfish.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dipterus_NT.jpg/220px-Dipterus_NT.jpg"
+                },
+                {
+                    "name": "Cheirolepis",
+                    "description": "Cheirolepis (hand fin) was a genus of ray-finned fishes. It was among the most basal of the Devonian ray-finned fishes and is considered the first to possess the \"standard\" dermal cranial bones seen in later ray-finned fish. It was a predatory freshwater fish about 55 centimetres (22 in) long, and based on the size of its eyes it hunted by sight",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Cheirolepis.jpg"
+                },
+                {
+                    "name": "Cladoselache",
+                    "description": "Cladoselache was the first abundant genus of primitive shark, appearing about 370 Ma. It grew to 6 feet (1.8 m) long, with anatomical features similar to modern mackerel sharks. It had a streamlined body almost entirely devoid of scales, with five to seven gill slits and a short, rounded snout that had a terminal mouth opening at the front of the skull. It had a very weak jaw joint compared with modern-day sharks, but it compensated for that with very strong jaw-closing muscles. Its teeth were multi-cusped and smooth-edged, making them suitable for grasping, but not tearing or chewing. Cladoselache therefore probably seized prey by the tail and swallowed it whole. It had powerful keels that extended onto the side of the tail stalk and a semi-lunate tail fin, with the superior lobe about the same size as the inferior. This combination helped with its speed and agility, which was useful when trying to outswim its probable predator, the heavily armoured 10 metres (33 ft) long placoderm fish Dunkleosteus",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cladoselache_NT_small.jpg/220px-Cladoselache_NT_small.jpg"
+                },
+                {
+                    "name": "Coccosteus",
+                    "description": "Coccosteus (seed bone) is an extinct genus of arthrodire placoderm. The majority of fossils have been found in freshwater sediments, though they may have been able to enter saltwater. They grew up to 40 centimetres (16 in) long. Like all other arthrodires, Coccosteus had a joint between the armour of the body and skull. In addition, it also had an internal joint between its neck vertebrae and the back of the skull, allowing it to open its mouth even wider. Along with the longer jaws, this allowed Coccosteus to feed on fairly large prey. As with all other arthrodires, Coccosteus had bony dental plates embedded in its jaws, forming a beak. The beak was kept sharp by having the edges of the dental plates grind away at each other.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coccosteus_cuspidatus.jpg/220px-Coccosteus_cuspidatus.jpg"
+                },
+                {
+                    "name": "Bothriolepis",
+                    "description": "Bothriolepis (pitted scale) was the most successful genus of antiarch placoderms, if not the most successful genus of any placoderm, with over 100 species spread across Middle to Late Devonian strata across every continent.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bothriolepis_NT_small.jpg/250px-Bothriolepis_NT_small.jpg"
+                },
+                {
+                    "name": "Pituriaspida",
+                    "description": "Pituriaspida (hallucinogenic shield) is a class containing two bizarre species of armoured jawless fishes with tremendous nose-like rostrums. They lived in estuaries around 390 Ma. The paleontologist Gavin Young, named the class after the hallucinogenic drug pituri, since he thought he might be hallucinating upon viewing the bizarre forms. The better studied species looked like a throwing-dart-like, with an elongate headshield and spear-like rostrum. The other species looked like a guitar pick with a tail, with a smaller and shorter rostrum and a more triangular headshield.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pituriaspida.jpg/220px-Pituriaspida.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Late Devonian",
+            "upper": "383 Mya",
+            "lower": "359 Mya",
+            "data": [
+                {
+                    "name": "Dunkleosteus",
+                    "description": "Dunkleosteus is a genus of arthrodire placoderms that existed from 380 to 360 Ma. It grew up to 10 metres (33 ft) long and weighed up to 3.6 tonnes. It was a hypercarnivorous apex predator. Apart from its contemporary Titanichthys (below), no other placoderm rivalled it in size. Instead of teeth, Dunkleosteus had two pairs of sharp bony plates, which formed a beak-like structure. Apart from megalodon, it had the most powerful bite of any fish, generating bite forces in the same league as Tyrannosaurus rex and the modern crocodile.",
+                    "url": "http://dinosaurtime.e2ecdn.co.uk/products/2301300-Dunkleosteus-with-Movable-Jaw-1.jpg?quality=85"
+                },
+                {
+                    "name": "Titanichthys",
+                    "description": "Titanichthys is a genus of giant, aberrant marine placoderm that lived in shallow seas. Many of the species approached Dunkleosteus in size and build. Unlike its relative, however, the various species of Titanichys had small, ineffective-looking mouth-plates that lacked a sharp cutting edge. It is assumed that Titanichthys was a filter feeder that used its capacious mouth to swallow or inhale schools of small, anchovy-like fish, or possibly krill-like zooplankton, and that the mouth-plates retained the prey while allowing the water to escape as it closed its mouth.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Titanichthys10.jpg"
+                },
+                {
+                    "name": "Materpiscis",
+                    "description": "Materpiscis (mother fish) is a genus of ptyctodontid placoderm from about 380 Ma. Known from only one specimen, it is unique in having an unborn embryo present inside, and with remarkable preservation of a mineralised placental feeding structure (umbilical cord). This makes Materpiscis the first known vertebrate to show viviparity, or giving birth to live young.[91] The specimen was named Materpiscis attenboroughi in honour of David Attenborough.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Materpiscis.jpg"
+                },
+                {
+                    "name": "Hyneria",
+                    "description": "Hyneria is a genus of predatory lobe-finned fish, about 2.5 m (8.2 ft) long, that lived 360 million years ago.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hyneria.jpg"
+                },
+                {
+                    "name": "Rhizodonts",
+                    "description": "Rhizodonts were an order of lobe-finned fish that survived to the end of the Carboniferous, 377–310 Ma. They reached huge sizes. The largest known species, Rhizodus hibberti grew up to 7 metres in length, making it the largest freshwater fish known.",
+                    "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rhizodopsis.jpg/440px-Rhizodopsis.jpg"
+                },
+                {
+                    "name": "Eusthenopteron",
+                    "description": "Genus of extinct lobe-finned fishes that has attained an iconic status from its close relationships to tetrapods. Early depictions of this animal show it emerging onto land, however paleontologists now widely agree that it was a strictly aquatic animal. The genus Eusthenopteron is known from several species that lived during the Late Devonian period, about 385 Ma. It was the object of intense study from the 1940s to the 1990s by the paleoichthyologist Erik Jarvik.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Eusthenopteron_BW.jpg"
+                },
+                {
+                    "name": "Gogonasus",
+                    "description": "Gogonasus (snout from Gogo) was a lobe-finned fish known from 3-dimensionally preserved 380 million-year-old fossils found in the Gogo Formation. It was a small fish reaching 30–40 cm (0.98–1.31 ft) in length. Its skeleton shows several tetrapod-like features. They included the structure of its middle ear, and its fins show the precursors of the forearm bones, the radius and ulna. Researchers believe it used its forearm-like fins to dart out of the reef to catch prey. Gogonasus was first described in 1985 by John A. Long. For almost 100 years Eusthenopteron has been the role model for demonstrating stages in the evolution of lobe-finned fishes to tetrapods. Gogonasus now replaces Eusthenopteron in being a better preserved representative without any ambiguity in interpreting its anatomy.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gogonasus_BW.jpg"
+                },
+                {
+                    "name": "Panderichthys",
+                    "description": "Adapted to muddy shallows, and capable of some kind of shallow water or terrestrial body flexion locomotion. Had the ability to prop itself up.They had large tetrapod-like heads, and are thought to be the most crownward stem fish-tetrapod with paired fins.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/e/e3/PanderichthysNT.jpg/revision/latest?cb=20130620221410"
+                },
+                {
+                    "name": "Tiktaalik",
+                    "description": "A fish with limb-like fins that could take it onto land. It is an example from several lines of ancient sarcopterygian fish developing adaptations to the oxygen-poor shallow-water habitats of its time, which led to the evolution of tetrapods Paleontologists suggest that it is representative of the transition between non-tetrapod vertebrates (fish) such as Panderichthys, known from fossils 380 million years old, and early tetrapods such as Acanthostega and Ichthyostega, known from fossils about 365 million years old. Its mixture of primitive fish and derived tetrapod characteristics led one of its discoverers, Neil Shubin, to characterize Tiktaalik as a \"fishapod\".",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tiktaalik_NT_small.jpg/220px-Tiktaalik_NT_small.jpg"
+                },
+                {
+                    "name": "Acanthostega",
+                    "description": "A fish-like early labyrinthodont that occupied swamps and changed views about the early evolution of tetrapods.[96] It had eight digits on each hand (the number of digits on the feet is unclear) linked by webbing, it lacked wrists, and was generally poorly adapted to come onto land. Subsequent discoveries revealed earlier transitional forms between Acanthostega and completely fish-like animals.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Acanthostega_model.jpg/220px-Acanthostega_model.jpg"
+                },
+                {
+                    "name": "Ichthyostega",
+                    "description": "Until finds of other early tetrapods and closely related fishes in the late 20th century, Ichthyostega stood alone as the transitional fossil between fish and tetrapods, combining a fishlike tail and gills with an amphibian skull and limbs. It possessed lungs and limbs with seven digits that helped it navigate through shallow water in swamps.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ichthyostega_model.jpg/220px-Ichthyostega_model.jpg"
+                },
+                {
+                    "name": "Pederpes",
+                    "description": "Pederpes is the earliest known fully terrestrial tetrapod. It is included here to complete the transition of lobe-finned fishes to tetrapods, even though Pederpes is no longer a fish.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pederpes22small.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Carboniferous",
+            "upper": "359 Mya",
+            "lower": "299 Mya",
+            "data": [
+                {
+                    "name": "Stethacanthidae",
+                    "description": "As a result of the evolutionary radiation, carboniferous sharks assumed a wide variety of bizarre shapes—including sharks of the family Stethacanthidae, which possessed a flat brush-like dorsal fin with a patch of denticles on its top.[118] Stethacanthus' unusual fin may have been used in mating rituals. Apart from the fins, Stethacanthidae resembled Falcatus .",
+                    "url": "https://museumsvictoria.com.au/website/pages/17120/ImageGallery/pic-43020.jpg"
+                },
+                {
+                    "name": "Falcatus",
+                    "description": "Falcatus is a genus of small cladodont-toothed sharks that lived 335–318 Ma. They were about 25–30 cm (10–12 in) long. They are characterised by the prominent fin spines that curved anteriorly over their heads.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Falcatus.jpg/220px-Falcatus.jpg"
+                },
+                {
+                    "name": "Orodus",
+                    "description": "Orodus is another shark of the Carboniferous, a genus from the family Orodontidae that lived into the early Permian from 303 to 295 Ma. It grew to 2 m (6.6 ft) in length.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Orodus_sp1DB.jpg/1200px-Orodus_sp1DB.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Permian",
+            "upper": "298 Mya",
+            "lower": "252 Mya",
+            "data": [
+                {
+                    "name": "Acanthodes",
+                    "description": "Acanthodes are an extinct genus of spiny shark. It had gills but no teeth] and was presumably a filter feeder. Acanthodes had only two skull bones and were covered in cubical scales. Each paired pectoral and pelvic fins had one spine, as did the single anal and dorsal fins, giving it a total of six spines, less than half that of many other spiny sharks.[52] Acanthodians share qualities of both bony fish (osteichthyes) and cartilaginous fish (chondrichthyes), and it has been suggested that they may have been stem chondrichthyans and stem gnathostomes.",
+                    "url": "https://static.giantbomb.com/uploads/scale_small/13/132099/2555333-7936895969-15912.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Triassic",
+            "upper": "252 Mya",
+            "lower": "201 Mya",
+            "data": [
+                {
+                    "name": "Perleidus",
+                    "description": "Perleidus was a ray-finned fish from the Early Triassic. About 15 centimetres (5.9 in) in length, it was a freshwater predatory fish with jaws that hung vertically under the braincase, allowing them to open wide. Perleidus had highly flexible dorsal and anal fins, with a reduced number of fin rays, which would have made the fish more agile in the water.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Perleidus.jpg"
+                },
+                {
+                    "name": "Pachycormiformes",
+                    "description": "Pachycormiformes are an extinct order of ray-finned fish that existed from the Middle Triassic to the K-Pg extinction (below). They were characterized by serrated pectoral fins, reduced pelvic fins and a bony rostrum. Their relations with other fish are unclear.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hypsocormus2.jpg/220px-Hypsocormus2.jpg"
+                },
+                {
+                    "name": "Pholidophorus",
+                    "description": "Pholidophorus was an extinct genus of teleost, around 40 centimetres (16 in) long, from about 240–140 Ma. Although not closely related to the modern herring, it was somewhat like them. It had a single dorsal fin, a symmetrical tail, and an anal fin placed towards the rear of the body. It had large eyes and was probably a fast swimming predator, hunting planktonic crustaceans and smaller fish.[129] A very early teleost, Pholidophoris had many primitive characteristics such as ganoid scales and a spine that was partially composed of cartilage, rather than bone.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pholidophorus_NT.jpg/220px-Pholidophorus_NT.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Jurassic",
+            "upper": "201 Mya",
+            "lower": "145 Mya",
+            "data": [
+                {
+                    "name": "Leedsichthys",
+                    "description": "Along with its close pachycormid relatives Bonnerichthys and Rhinconichthys, Leedsichthys is part of a lineage of large-sized filter-feeders that swam the Mesozoic seas for over 100 million years, from the middle Jurassic until the end of the Cretaceous period. Pachycormids might represent an early branch of Teleostei, the group most modern bony fishes belong to; in that case Leedsichthys is the largest known teleost fish.[134] In 2003, a fossil specimen 22 meters (72 feet) long was unearthed.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Leedsichtys092.jpg"
+                },
+                {
+                    "name": "Ichthyodectidae",
+                    "description": "Ichthyodectidae was family of marine actinopterygian fish. They first appeared 156 Ma during the Late Jurassic and disappeared during the K-Pg extinction event 66 Ma. They were most diverse throughout the Cretaceous period. Sometimes classified in the primitive bony fish order Pachycormiformes, they are today generally regarded as members of the \"bulldog fish\" order Ichthyodectiformes in the far more advanced Osteoglossomorpha. Most ichthyodectids ranged between 1 and 5 meters (3.3 and 16.4 ft) in length. All known taxa were predators, feeding on smaller fish; in several cases, larger Ichthyodectidae preyed on smaller members of the family. Some species had remarkably large teeth, though others, such as Gillicus arcuatus, had small ones and sucked in their prey. The largest Xiphactinus was 20 feet long, and appeared in the Late Cretaceous ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ichthyodectidae1.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": "Sturgeon",
+                    "description": "True sturgeons appear in the fossil record during the Upper Cretaceous. Since that time, sturgeons have undergone remarkably little morphological change, indicating their evolution has been exceptionally slow and earning them informal status as living fossils. This is explained in part by the long generation interval, tolerance for wide ranges of temperature and salinity, lack of predators due to size, and the abundance of prey items in the benthic environment.",
+                    "url": "https://seahistory.org/wp-content/uploads/Sturgeon.jpg"
+                },
+                {
+                    "name": "Cretoxyrhina",
+                    "description": "Cretoxyrhina mantelli was a large shark that lived about 100 to 82 million years ago, during the mid Cretaceous period. It is commonly known as the Ginsu Shark. This shark was first identified by a famous Swiss Naturalist, Louis Agassiz in 1843, as Cretoxyhrina mantelli. However, the most complete specimen of this shark was discovered in 1890, by the fossil hunter Charles H. Sternberg, who published his findings in 1907. The specimen consisted of a nearly complete associated vertebral column and over 250 associated teeth. This kind of exceptional preservation of fossil sharks is rare because a shark's skeleton is made of cartilage, which is not prone to fossilization. Charles dubbed the specimen Oxyrhina mantelli. This specimen represented a 20-foot-long (6.1 m) shark.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cretoxyrhina_Ginsu_Shark.jpg"
+                },
+                {
+                    "name": "Enchodus",
+                    "description": "Enchodus is an extinct genus of bony fish. It flourished during the Upper Cretaceous and was small to medium in size. One of the genus' most notable attributes are the large \"fangs\" at the front of the upper and lower jaws and on the palatine bones, leading to its misleading nickname among fossil hunters and paleoichthyologists, \"the saber-toothed herring\". These fangs, along with a long sleek body and large eyes, suggest Enchodus was a predatory species.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Enchodus_petrosus.jpg/225px-Enchodus_petrosus.jpg"
+                },
+                {
+                    "name": "Xiphactinus",
+                    "description": "Xiphactinus is an extinct genus of large predatory marine bony fish of the Late Cretaceous. They grew more than 4.5 metres (15 feet) long.",
+                    "url": "https://vignette.wikia.nocookie.net/river-monsters/images/9/94/Xiphactinus.jpg/revision/latest?cb=20170922230023"
+                },
+                {
+                    "name": "Ptychodus",
+                    "description": "Ptychodus is a genus of extinct hybodontiform shark that lived from the late Cretaceous to the Paleogene.[139][140] Ptychodus mortoni (pictured) was about 32 feet (9.8 metres) long and was unearthed in Kansas, United States.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ptychodus_mortoni.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Cenozoic Era",
+            "upper": "66 Mya",
+            "lower": "present",
+            "data": [
+                {
+                    "name": "Amphistium",
+                    "description": "Amphistium is a 50-million-year-old fossil fish that has been identified as an early relative of the flatfish, and as a transitional fossil.[147] In a typical modern flatfish, the head is asymmetric with both eyes on one side of the head. In Amphistium, the transition from the typical symmetric head of a vertebrate is incomplete, with one eye placed near the top of the head.",
+                    "url": "https://pre00.deviantart.net/f032/th/pre/i/2015/116/e/0/amphistium_paradoxum_by_avancna-d4il3yn.jpg"
+                },
+                {
+                    "name": "Megalodon",
+                    "description": "Megalodon is an extinct species of shark that lived about 28 to 1.5 Ma. It looked much like a stocky version of the great white shark, but was much larger with fossil lengths reaching 20.3 metres (67 ft). Found in all oceans, it was one of the largest and most powerful predators in vertebrate history, and probably had a profound impact on marine life.",
+                    "url": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzEwMy8yNzgvb3JpZ2luYWwvbWVnYWxvZG9uLmpwZw=="
+                }
+            ]
+        }
+
+    ]
+            
+}

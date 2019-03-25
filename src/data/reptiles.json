@@ -1,0 +1,177 @@
+{
+   "id": "reptile",
+    "evolution_data": [
+        {
+            "period": "Carboniferous",
+            "upper": "359 Mya",
+            "lower": "299 Mya",
+            "data": [
+                {
+                    "name": "Casineria",
+                    "description": "The origin of the reptiles lies about 320–310 million years ago, in the swamps of the late Carboniferous period, when the first reptiles evolved from advanced reptiliomorph labyrinthodonts. The oldest known animal that may have been an amniote, a reptile rather than an amphibian, is Casineria (though it has also been argued to be a temnospondyl amphibian).\n Casineria was a small animal with a postcrania length estimated to have been 15 centimeters. Its small size would have made it ideal for hunting the invertebrates of the Carboniferous. \n In the early Carboniferous period before the appearance of Casineria, vertebrates were primarily aquatic, only spending part of their time on land. Casineria and its relatives were the first vertebrates to live and reproduce on land. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Casineria_kiddi_reconstruction.jpg/170px-Casineria_kiddi_reconstruction.jpg"
+                },
+                {
+                    "name": "Hylonomus",
+                    "description": "A series of footprints from the fossil strata of Nova Scotia, dated to 315 million years, show typical reptilian toes and imprints of scales. The tracks are attributed to Hylonomus, the oldest unquestionable reptile known. It was a small, lizard-like animal, about 20 to 30 cm (8–12 in) long, with numer ous sharp teeth indicating an insectivorous diet.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hylonomus_lyelli_-_MUSE.jpg"
+                },
+                {
+                    "name": "Westlothiana lizziae",
+                    "description": "Westlothiana (\"animal from West Lothian\") is a genus of reptile-like tetrapod that lived about 338 million years ago during the latest part of the Visean age of the Carboniferous. Members of the genus bore a superficial resemblance to modern-day lizards. However, despite its similar body shape, Westlothiana is not considered a true lizard. ",
+                    "url": "https://www.nms.ac.uk/media/1150829/lizzie-model-john-holmes.jpg?width=700&height=385.9706362153344"
+                },
+                {
+                    "name": "Cochleosaurus",
+                    "description": "Cochleosaurus ('spoon lizard') is a name of a tetrapod belonging to Temnospondyli, which lived during the late Carboniferous period (Moscovian, about 310 millions years ago). It was a creature of medium size, measuring 120-160 centimeters. It is believed that Cochleosaurus was a semiaquatic ambush predator, hunting like modern crocodiles. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cochleosaurus.jpg/439px-Cochleosaurus.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Permian",
+            "upper": "298 Mya",
+            "lower": "252 Mya",
+            "data": [
+                {
+                    "name": "Edaphosaurus",
+                    "description": "Edaphosaurus is a genus of extinct edaphosaurid synapsid that lived in what is now North America and Europe around 300 to 280 million years ago, during the late Carboniferous to early Permian periods.\n Edaphosaurus is important as one of the earliest known large plant-eating (herbivorous) amniote tetrapods (four-legged land-living vertebrates).",
+                    "url": "https://www.newdinosaurs.com/wp-content/uploads/2016/11/1315_edaphosaurus_nobu_tamura.jpg"
+                },
+                {
+                    "name": ["Pareiasaur","Cheek lizard"],
+                    "description": "Pareiasaurs (meaning \"cheek lizards\") were a clade of parareptiles comprising the family Pareiasauridae. They were large herbivores that flourished during the Permian period. Parareptiles form a sister clade to reptiles and birds.\n The pareiasaurs reached giant proportions in the late Permian, eventually disappearing at the close of the period.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bradysaurus_BW.jpg/200px-Bradysaurus_BW.jpg"
+                },
+                {
+                    "name": ["Archosaurus","Crocodile","birds"],
+                    "description": "Archosaurs are a group of diapsid amniotes whose living representatives consist of birds and crocodilians. This group also includes all extinct dinosaurs, extinct crocodilian relatives, and pterosaurs. \n Permian reptiles Archosaurus rossicus and/or Protorosaurus speneri as true archosaurs maintain that archosaurs first appeared in the late Permian. They remained lizard-like and relatively small and inconspicuous during the Permian.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/0/05/Archosaurus.jpg/revision/latest/scale-to-width-down/400?cb=20140210132002"
+                },
+                {
+                    "name": ["Lepidosaur","scaled lizards","snakes","tuataras"],
+                    "description": " lepidosaurs are the predecessors of modern tuataras, lizards, and snakes. They remained lizard-like and relatively small and inconspicuous during the Permian.",
+                    "url": "https://classconnection.s3.amazonaws.com/623/flashcards/4089623/jpg/tuatara-141F2C57E5272764906-thumb400.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Triassic",
+            "upper": "252 Mya",
+            "lower": "201 Mya",
+            "data": [
+                {
+                    "name": "dinosaurs",
+                    "description": "During the first half of the Triassic, however, dinosaurs were still a long way from ruling the Earth. They had a variety of competitors, including close relatives from the same animal group that dinosaurs themselves belonged to, the archosaurs (\"ruling reptiles\"). Crocodile-like terrestrial predators were among the most successful of these archosaur rivals but they had died out by the end of the Triassic.",
+                    "url": "https://fbcd.co/product-lg/26a19e84096dd5af13eaa7f1077c250f_resize.jpg"
+                },
+                {
+                    "name": ["coelophysis","dinosaurs"],
+                    "description": "One of the first true dinosaurs was coelophysis (\"hollow form\"), a carnivorous, bipedal predator that emerged in the late Triassic, between 225 and 220 MYA. Hollow-boned coelophysis grew up to 3 metres in length, weighed around 27kg and probably fed on smaller reptiles and amphibians. It had curved claws on its hands and a slim head crammed full of very sharp teeth.",
+                    "url": "https://www.newdinosaurs.com/wp-content/uploads/2016/01/206_coelophysis_camus_altamirano.jpg"
+                },
+                {
+                    "name": ["Plateosaurus","dinosaurs"],
+                    "description": "Around 210 MYA, a new type of dinosaur emerged - the giant herbivore, plateosaurus (\"flat lizard\"). Weighing around 3 tonnes and growing up to 7 metres, plateosarus was a forerunner of the huge Jurassic dinosaurs. It had a long, powerful tail and a set of coarsely serrated teeth for chewing tough vegetation. plateosaurus also had a large, curved claw on its thumb. ",
+                    "url": "https://www.everythingdinosaur.com/wp-content/uploads/2016/10/CollectA_Plateosaurus_dinosaur_model.jpg"
+                },
+                {
+                    "name": ["Cynodonts","mammals"],
+                    "description": "The cynodonts were small, mammal-like creatures that lived in burrows. They probably laid eggs may have been warm-blooded.",
+                    "url": "http://www.worldsofimagination.co.uk/Thrinaxodon_BW.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Jurassic",
+            "upper": "201 Mya",
+            "lower": "145 Mya",
+            "data": [
+                {
+                    "name": ["Sauropods","dinosaurs"],
+                    "description": "Sauropods first appeared in the late Triassic Period,[7] where they somewhat resembled the closely related (and possibly ancestral) group \"Prosauropoda\". By the Late Jurassic (150 million years ago), sauropods had become widespread (especially the diplodocids and brachiosaurids). They had very long necks, long tails, small heads (relative to the rest of their body), and four thick, pillar-like legs. They are notable for the enormous sizes attained by some species, and the group includes the largest animals to have ever lived on land. Well-known genera include Brachiosaurus, Diplodocus, Apatosaurus and Brontosaurus.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/5/55/Sauropodomorpha.png/revision/latest?cb=20140811153247"
+                },
+                {
+                    "name": ["pterosaurs"],
+                    "description": "Pterosaurs first appeared in the late Triassic Period and roamed the skies until the end of the Cretaceous Period (228 to 66 million years ago). Pterodactyl is the common term for the winged reptiles properly called pterosaurs. Pterosaurs lived among the dinosaurs and became extinct around the same time, but they were not dinosaurs. Rather, pterosaurs were flying reptiles.Modern birds didn't descend from pterosaurs.",
+                    "url": "https://cdn.shopify.com/s/files/1/2281/5369/products/100486_1_x700.jpg?v=1548935129"
+                },
+
+                {
+                    "name": ["allosaurus","dinosaurs"],
+                    "description": " Allosaurus was one of the most common Carnosaurs in North America; numerous intact skeletons have been found in the fossil beds of Utah. Allosaurus was superficially similar to the later evolving Tyrannosaurus rex, although cladistic analysis shows them to be only distantly related. Allosaurus was a bit smaller with a longer jaw and heavier forelimbs. They relied on the stronger hind limbs for a running gait, but it is unclear how fast they could move.",
+                    "url": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzMy80MzUvb3JpZ2luYWwvc2h1dHRlcnN0b2NrXzI3MzIzNzk3LmpwZw=="
+                },
+
+                {
+                    "name": ["Ichthyosaurus","dinosaurs"],
+                    "description": "Ichthyosaurus was a more fish-shaped reptile that was most common in the early Jurassic.",
+                    "url": "https://www.newdinosaurs.com/wp-content/uploads/2016/11/1483_ichthyosaurus_felipe_arias.jpg"
+                },
+
+                {
+                    "name": ["Archaeopteryx","bird","dinosaur"],
+                    "description": " Archaeopteryx was the \"original bird\" or \"first bird\".  They were bird-like dinosaurs that is transitional between non-avian feathered dinosaurs and modern birds. Archaeopteryx lived in the Late Jurassic around 150 million years ago. \n Despite their small size, broad wings, and inferred ability to fly or glide, Archaeopteryx had more in common with other small Mesozoic dinosaurs than with modern birds. In particular, they shared the following features with the dromaeosaurids and troodontids: jaws with sharp teeth, three fingers with claws, a long bony tail, hyperextensible second toes (\"killing claw\"), feathers (which also suggest warm-bloodedness), and various features of the skeleton. ",
+                    "url": "http://www.dinosaurusi.com/video_slike/Cosv3BjCl5-Dinosaurus_-_Dinosaur_-_Dinosaurio_-_Dinosaure_-_Archeopteryx005.jpg"
+                }
+
+            ]
+        },
+
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": ["Tyrannosaurus Rex","dinosaurs"],
+                    "description": "The \"tyrant lizard king\" was a terrifying predator who evolved during the late Cretaceous and grew to 12 metres in length. It weighed around 5 tonnes and could open its massive jaws an eye-watering 1 metre wide. \nTheir strong banana-length teeth, weren't just capable of ripping flesh. They could crunch through bone, too. However, T. rex wasn't all brute force. It had acute, binocular eyesight, sensitive hearing and a highly developed sense of smell. The dinosaurs came to an end by the end of the Cretaceous period.",
+                    "url": "https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=650"
+
+                },
+
+                {
+                    "name": ["Velociraptor","dinosaurs"],
+                    "description": " Velociraptors (\"quick plunderer\") were very much a lightweight at just 1.8 metres in length and weighing between 7kg and 15kg. It is also a universal belief that they would have been covered in feathers.  The dinosaurs came to an end by the end of the Cretaceous period.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png"
+
+                },
+
+                {
+                    "name": ["Triceratops","dinosaurs"],
+                    "description": "Triceratop grew to around 9 metres in length and weighed up to 10 tonnes. As well as three deadly horns, Triceratops had an impressive bony frill behind its head. Triceratops was a herbivore, using it's beak to gather tough vegetation. The dinosaurs came to an end by the end of the Cretaceous period",
+                    "url": "http://images.dinosaurpictures.org/triceratops-roger-hall-and-photo-researchers_1b1e.jpg"
+
+                },
+
+                {
+                    "name": ["birds","dinosaurs"],
+                    "description": "Birds had evolved from the theropod group of dinosaurs, which included bipedal predators such as Velociraptor and T. rex. By the late Cretaceous, birds were widespread in forests and mudflats. Some resembled modern birds, such as curlews and sandpipers. There was even a forerunner of today's parrot family. Birds were not affected by the mass extinction by the end of the Cretaceous period.",
+                    "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/4/41/TheropodaInfobox.png/revision/latest?cb=20151103002314"
+                }
+            ]
+        },
+
+        {
+            "period": "Cenozoic Era",
+            "upper": "66 Mya",
+            "lower": "present",
+            "data": [
+                {
+                    "name": "reptiles",
+                    "description": "Smaller reptiles that survived the Cretaceous, such as turtles, snakes, crocodiles, and lizards, basked in the tropical warmth along the coasts. Birds, the holdouts of the dinosaur age, diversified and flourished in the skies. But the rapidly evolving mammals stole the show. ",
+                    "url": "http://www.animalsworlds.com/images/reptiles.png"
+                },
+                {
+                    "name": "Megalodon",
+                    "description": "Megalodon is an extinct species of shark that lived about 28 to 1.5 Ma. It looked much like a stocky version of the great white shark, but was much larger with fossil lengths reaching 20.3 metres (67 ft).[149] Found in all oceans[150] it was one of the largest and most powerful predators in vertebrate history,[149] and probably had a profound impact on marine life.",
+                    "url": "https://www.moas.org/zupload/library/547/-761-2048x1070-0.jpg?ztv=20181018114208"
+                }
+            ]
+        }
+    ]
+}

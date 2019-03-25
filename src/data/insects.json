@@ -1,0 +1,220 @@
+{
+   "id": "insect",
+    "evolution_data": [
+        {
+            "period": "Early Devonian",
+            "upper": "419 Mya",
+            "lower": "383 Mya",
+            "data": [
+                {
+                    "name": "Rhyniognatha hirsti",
+                    "description": "The oldest definitive insect fossil is the Devonian Rhyniognatha hirsti, estimated at 407 to 396 million years ago. This species already possessed dicondylic (with two condyles, articulations) mandibles, a feature associated with winged insects, suggesting that wings may already have evolved at this time. Thus, the first insects probably appeared earlier, in the Silurian period. Like other insects of its time, Rhyniognatha presumably fed on plant sporophylls — which occur at the tips of branches and bear sporangia, the spore-producing organs. The insect’s anatomy might also give clues as to what it ate. The creature had large mandibles which may or may not have been used for hunting.",
+                    "url": "http://newsimg.bbc.co.uk/media/images/39848000/jpg/_39848593_rhynio_nature_203long.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Late Devonian",
+            "upper": "383 Mya",
+            "lower": "359 Mya",
+            "data": [
+                {
+                    "name": "Strudiella devonica",
+                    "description": "Strudiella devonica is a possible insect fossil, the first complete Late Devonian insect, probably terrestrial. It was recovered in the Strud (Gesves, Belgium) environment from the Bois des Mouches Formation, Upper Famennian. It had unspecialized, 'orthopteroid', mouthparts, indicating an omnivorous diet. This discovery reduces a previous gap of 45 million years in the evolutionary history of insects, part of the arthropod gap (the 'gap' still occurs in the early Carboniferous, coinciding and extending past the Romer's gap for tetrapods, which may have been caused by low oxygen levels in the atmosphere). Body segments, legs and antennae are visible; however, genitalia were not preserved. The insect has no wings, but it may be a juvenile.",
+                    "url": "http://www.reflexions.uliege.be/upload/docs/image/png/2012-09/strudiella-devonica.png"
+                }
+            ]
+
+        },
+
+        {
+            "period": "Carboniferous",
+            "upper": "359 Mya",
+            "lower": "299 Mya",
+            "data": [
+                {
+                    "name": "Blattoptera",
+                    "description": "Blattoptera, or proto-cockroaches, is a name given to various \"roachid\" fossil insects related to cockroaches, mantises and termites, and of general cockroach-like appearance and possibly habit.The fossils assigned to the \"roachids\" are of general cockroach-like build, with a large disc-like pronotum covering most of the head, long antennae, legs built for running, flattened body and heavily veined wings with the distinct arched CuP-vein so typical of modern cockroach wings. Like modern cockroaches, the roachids were probably swift litter inhabitants living on a wide range of dead plant and animal matter. Contrary to modern forms, the female roachids all have a well-developed external ovipositor, a primitive insect trait. They probably inserted eggs singly into soil or crevices. The egg pods, called ootheca, seen in modern cockroaches and their relatives is a new shared trait separating them from their primitive ancestors. Some of the roachid species could reach relatively large sizes compared to most of their modern relatives, like the Carboniferous Archimylacris and the Permian Apthoroblattina, the latter who could reach 50 mm in body length. ",
+                    "url": "https://farm4.staticflickr.com/3264/2853753987_2421502319_z.jpg?zz=1"
+                },
+                {
+                    "name": "Caloneurodea",
+                    "description": "A small order of neopterous insects with two similar pairs of wings and with legs adapted for running that appeared in the Upper Pennsylvanian and became extinct after the Permian",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Caloneura_dowsoni.jpg/250px-Caloneura_dowsoni.jpg"
+                },
+                {
+                    "name": ["Ephemeropterans","Mayflies"],
+                    "description": "Ephemeroptera is a group of 2,000 insect species commonly known as mayflies. They are considered to be part of the clade Uniramia which includes silverfish and dragonflies, among others. Ephemeroptera and Odonata are the only extant orders of winged insects in the infraclass Paleoptera. All other insects with wings are in the Neoptera, and are characterized by a wing articulation (joint) that allows them to fold their wings back over their abdomens at rest. Ephemeroptera are aquatic insects that often go through many nymph stages (living in water) and two flying stages (the subimago and the imago). They are the only insects to have two flying stages, and can be recognized by their three caudal filaments (tails) at the tip of the abdomen, and a single claw on each leg.",
+                    "url" : "http://tolweb.org/tree/ToLimages/Hexagenia1.200a.JPG"
+                },
+                {
+                    "name": ["Orthoptera","Grasshoppers","locusts","crickets"],
+                    "description": "Orthoptera is an order of insects that comprises the grasshoppers, locusts and crickets, including closely related insects such as the katydids and wetas. The order is subdivided into two suborders: Caelifera – grasshoppers, locusts and close relatives; and Ensifera – crickets and close relatives.More than 20,000 species are distributed worldwide. The insects in the order have incomplete metamorphosis, and produce sound (known as a \"stridulation\") by rubbing their wings against each other or their legs, the wings or legs containing rows of corrugated bumps. The tympanum or ear is located in the front tibia in crickets, mole crickets, and katydids, and on the first abdominal segment in the grasshoppers and locusts. These organisms use vibrations to locate other individuals. Grasshoppers and other orthopterans are able to fold their wings (i.e. they are members of Neoptera)",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Metrioptera_roeseli_male_Richard_Bartz.jpg/220px-Metrioptera_roeseli_male_Richard_Bartz.jpg"
+                },
+                {
+                    "name": "Palaeodictyopteroidea",
+                    "description": "Palaeodictyopteroidea is a large and diverse group that includes 50% of all known Paleozoic insects. Containing many of the primitive features of the time: very long cerci, an ovipositor, and wings with little or no anal lobe. Protodonata, as its name implies, is a primitive paraphyletic group similar to Odonata; although lacks distinct features such as a nodus, a pterostigma and an arculus.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mazothairos1.jpg/220px-Mazothairos1.jpg"
+                }
+            ]
+        },
+        {
+            "period": "Permian",
+            "upper": "298 Mya",
+            "lower": "252 Mya",
+            "data": [
+                {
+                    "name": ["Proteytroptera","Dermaptera","Earwigs"],
+                    "description": "Protelytroptera is an extinct order of insects thought to be a stem group from which the modern Dermaptera evolved. These insects, which resemble modern Blattodea, or Cockroaches, are known from the Permian of North America, Europe and Australia, from the fossils of their shell-like forewings and the large, unequal, anal fan. None of their fossils are known from the Triassic when the morphological changes from Protelytroptera to Dermaptera presumably took place.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Earwig_on_white_background.jpg"
+                },
+                {
+                    "name": ["Plecoptera","Stoneflies"],
+                    "description": "Some 3,500 species are described worldwide, with new species still being discovered. Stoneflies are found worldwide, except Antarctica. Stoneflies are believed to be one of the most primitive groups of Neoptera, with close relatives identified from the Carboniferous and Lower Permian geological periods, while true stoneflies are known from fossils only a bit younger. The modern diversity, however, apparently is of Mesozoic origin. \n Stoneflies have a generalized anatomy, with few specialized features compared to other insects. They have simple mouthparts with chewing mandibles, long, multiple-segmented antennae, large compound eyes, and two or three ocelli. The legs are robust, with each ending in two claws. The abdomen is relatively soft, and may include remnants of the nymphal gills even in the adult. Both nymphs and adults have long, paired cerci projecting from the tip of their abdomens",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SteinfliegenLarve2.JPG/220px-SteinfliegenLarve2.JPG"
+                },
+                {
+                    "name": ["Psocoptera","Booklice"],
+                    "description": " They are often regarded as the most primitive of the hemipteroids.They range in size from 1–10 millimeters (0.04–0.4 in) in length.\n Psocids are small, scavenging insects with a relatively generalized body plan. They feed primarily on fungi, algae, lichen, and organic detritus in nature but are also known to feed on starch-based household items like grains, wallpaper glue and book bindings. They have chewing mandibles, and the central lobe of the maxilla is modified into a slender rod. This rod is used to brace the insect while it scrapes up detritus with its mandibles. They also have a swollen forehead, large compound eyes, and three ocelli. Their bodies are soft with a segmented abdomen. Some species can spin silk from glands in their mouth. They may festoon large sections of trunk and branches in dense swathes of silk.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Psocoptera.jpg/220px-Psocoptera.jpg"
+                },
+                {
+                    "name": ["Mecoptera","Scorpionfiles"],
+                    "description": " These were mainly wind-pollinated plants, but fossil mecopterans had siphon-feeding apparatus that could have fertilized these early gymnosperms by feeding on their nectar and pollen. The lack of iron enrichment in their fossilized probosces rules out their use for drinking blood. Eleven species have been identified from three families, Mesopsychidae, Aneuretopsychidae, and Pseudopolycentropodidae within the clade Aneuretopsychina. Their lengths range from 3 mm (0.12 in) in Parapolycentropus burmiticus to 28 mm (1.1 in) in Lichnomesopsyche gloriae. The proboscis could be as long as 10 mm (0.39 in). It has been suggested that these mecopterans transferred pollen on their mouthparts and head surfaces, as do bee flies and hoverflies today, but no such associated pollen has been found, even when the insects were finely preserved in Eocene Baltic amber. They likely pollinated plants such as Caytoniaceae, Cheirolepidiaceae, and Gnetales, which have ovulate organs that are either poorly suited for wind pollination or have structures that could support long-proboscid fluid feeding.[19][20][19] The Aneuretopsychina were the most diverse group of mecopterans in the Latest Permian, taking the place of the Permochoristidae, to the Middle Triassic.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Skorpionsfliege_Panorpa_communis_male_full_%28cropped%29.jpg"
+                },
+                {
+                    "name": ["Coleoptera","Beetle"],
+                    "description": " The oldest known fossil insect that unequivocally resembles a Coleopteran is from the Lower Permian Period about 270 million years ago (mya), though these members of the family Tshekardocoleidae have 13-segmented antennae, elytra with more fully developed venation and more irregular longitudinal ribbing, and abdomen and ovipositor extending beyond the apex of the elytra. In the Permian–Triassic extinction event at the end of the Permian, some 30% of all insect species became extinct, so the fossil record of insects only includes beetles from the Lower Triassic 220 mya. beetles often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates. Some species are serious agricultural pests, such as the Colorado potato beetle, while others such as Coccinellidae (ladybirds or ladybugs) eat aphids, scale insects, thrips, and other plant-sucking insects that damage crops.",
+                    "url" : "http://4.bp.blogspot.com/-Jwrp2_z-Rf0/UEbkbdU-ETI/AAAAAAAAGBo/ig_u5sJMyls/s1600/Sylvacoleus%2Bsharovi.jpg"
+                },
+                {
+                    "name": ["Raphidioptera","Snakefly"],
+                    "description": "Adult snakeflies are characterized by having an elongate prothorax but no modification of the forelegs (as in Mantispidae). They have strong and relatively unspecialised mouthparts, and large compound eyes. Some species also have ocelli. The females typically have a long ovipositor, which they use to deposit their eggs into crevices in bark or rotting wood. The two pair of dragonfly-like wings are similar in size, with a primitive venation pattern, and a thickened costal margin (or \"pterostigma\"). The larvae have large heads with projecting mandibles. The head and the first segment of the thorax are sclerotised, but the rest of the body is soft and fleshy. They have three pairs of true legs, but no prolegs. However, they do possess an adhesive organ on the abdomen, which they can use to fasten themselves to vertical surfaces.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dichrostigma_flavipes_beentree.jpg/1200px-Dichrostigma_flavipes_beentree.jpg"
+                },
+                {
+                    "name": ["Neuroptera","Lacewings","mantidflies","antlions"],
+                    "description": "Adult Neuropterans have four membranous wings, all about the same size, with many veins. They have chewing mouthparts, and undergo complete metamorphosis. Neuropterans first appeared during the Permian Period, and continued to diversify through the Mesozoic Era. During this time, several unusually large forms evolved, especially in the extinct family Kalligrammatidae, often referred to as \"the butterflies of the Jurassic\" due to their large, patterned wings. \n Neuropterans are soft-bodied insects with relatively few specialised features. They have large lateral compound eyes, and may or may not also have ocelli. Their mouthparts have strong mandibles suitable for chewing, and lack the various adaptations found in most other endopterygote insect groups.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Crisopid_July_2013-9a.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Triassic",
+            "upper": "252 Mya",
+            "lower": "201 Mya",
+            "data": [
+                {
+                    "name": "Beetle",
+                    "description": "As a consequence of the Permian–Triassic extinction event, the fossil record of insects is scant, including beetles from the Lower Triassic. However, there are a few exceptions, such as in Eastern Europe. At the Babiy Kamen site in the Kuznetsk Basin, numerous beetle fossils were discovered, including entire specimens of the infraorders Archostemata (e.g. Ademosynidae, Schizocoleidae), Adephaga (e.g., Triaplidae, Trachypachidae) and Polyphaga (e.g. Hydrophilidae, Byrrhidae, Elateroidea). However, species from the families Cupedidae and Schizophoroidae are not present at this site, whereas they dominate at other fossil sites from the Lower Triassic such as Khey-Yaga, Russia, in the Korotaikha Basin.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tenomerga_mucida01.jpg"
+                },
+                {
+                    "name": ["Cercopidae","froghopper"],
+                    "description": "Cercopidae are the largest family of Cercopoidea, a xylem-feeding insect group, commonly called froghoppers . They belong to the hemipteran suborder Auchenorrhyncha.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blutzikade_Cercopis_vulnerata.jpg/1200px-Blutzikade_Cercopis_vulnerata.jpg"
+                },
+                {
+                    "name": ["Cicadellidae","leafhopper"],
+                    "description": "These minute insects, colloquially known as hoppers, are plant feeders that suck plant sap from grass, shrubs, or trees. Their hind legs are modified for jumping, and are covered with hairs that facilitate the spreading of a secretion over their bodies that acts as a water repellent and carrier of pheromones. They undergo a partial metamorphosis, and have various host associations, varying from very generalized to very specific.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Graphocephala_coccinea_6.jpg/290px-Graphocephala_coccinea_6.jpg"
+                },
+                {
+                    "name": "Cixiidae",
+                    "description": "The Cixiidae are a family of fulgoroid insects, one of many families commonly known as planthoppers, distributed worldwide and comprising more than 2,000 species from over 150 genera. The genera are placed into three subfamilies, Borystheninae, Bothriocerinae and Cixiinae with sixteen tribes currently accepted in Cixiinae. \n comparatively small (body size less than a centimeter) and usually inconspicuous. The face is longer than wide and the head is narrower than the pronotum. The forewings are at least partly transparent and the veins bear minute setae. The hind tibiae end in a cluster of spines and may sometimes have spines along their length. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cixius.nervosus.-.lindsey.jpg"
+                },
+                {
+                    "name": ["Carabidae","Ground beetles"],
+                    "description": "Ground beetles evolved in the latter Triassic, having separated from their closest relatives by 200 million years ago. Common habitats are under the bark of trees, under logs, or among rocks or sand by the edge of ponds and rivers. Most species are carnivorous and actively hunt for any invertebrate prey they can overpower.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dixussphaerocephalus.png/220px-Dixussphaerocephalus.png"
+                },
+                {
+                    "name": ["Anisopodidae","wood gnats","window-gnats"],
+                    "description": "The Anisopodidae are small or medium-sized (mostly 4–12 mm, Lobogaster found in Chile 17–18 mm) yellowish to brownish gnats with long, thin legs. The tibiae have apical spurs. The head is small and rounded and with small mouthparts. The eyes are dichoptic or holoptic. Ocelli are present and form an equilateral triangle. The slender antennae vary from relatively short to longer than head and thorax together. The antennae have 14-16 segments. The mesonotum is without a transverse suture; the wing is wide, with a clear anal lobe and a pattern of smaller markings (sometimes hyaline). The alula is strongly differentiated in Olbiogaster and Sylvicola. Both wings lie flat over the abdomen in the resting position.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sylvicola_fenestralis01.jpg/1200px-Sylvicola_fenestralis01.jpg"
+                },
+                {
+                    "name": ["Thysanoptera","thrips"],
+                    "description": "The first Thysanoptera appeared during the Triassic period. Thrips (order Thysanoptera) are minute (most are 1 mm long or less), slender insects with fringed wings and unique asymmetrical mouthparts. Different thrips species feed mostly on plants by puncturing and sucking up the contents, although a few are predators. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Thysanoptera.jpg"
+                }
+            ]
+        },
+
+
+        {
+            "period": "Jurassic",
+            "upper": "201 Mya",
+            "lower": "145 Mya",
+            "data": [
+                {
+                    "name": "Beetles",
+                    "description": "During the Jurassic (210 to 145 mya), there was a dramatic increase in the diversity of beetle families, including the development and growth of carnivorous and herbivorous species. The Chrysomeloidea diversified around the same time, feeding on a wide array of plant hosts from cycads and conifers to angiosperms.\n Around the same time, numerous primitive weevils (e.g. Curculionoidea) and click beetles (e.g. Elateroidea) appeared. The first jewel beetles (e.g. Buprestidae) are present, but they remained rare until the Cretaceous.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Denticollis.linearis.2.jpg/240px-Denticollis.linearis.2.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": "beetles",
+                    "description": "The diversity of Cupedidae and Archostemata decreased considerably. Predatory ground beetles (Carabidae) and rove beetles (Staphylinidae) began to distribute into different patterns.\n The diversity of jewel beetles increased rapidly, as they were the primary consumers of wood.\n The first species where both larvae and adults are adapted to an aquatic lifestyle are found. Whirligig beetles (Gyrinidae) were moderately diverse, although other early beetles (e.g. Dytiscidae) were less, with the most widespread being the species of Coptoclavidae, which preyed on aquatic fly larvae.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cordalia_tsavoana_Pace%2C_2008_%282912937616%29.jpg/327px-Cordalia_tsavoana_Pace%2C_2008_%282912937616%29.jpg"
+
+                },
+
+                {
+                    "name": "ant",
+                    "description": "Ants evolved from a lineage within the stinging wasps.the fossil remains of an ant (Sphecomyrma) that lived in the Cretaceous period. The specimen, trapped in amber dating back to around 92 million years ago, has features found in some wasps, but not found in modern ants. Sphecomyrma was possibly a ground forager, while Haidomyrmex and Haidomyrmodes, related genera in subfamily Sphecomyrminae, are reconstructed as active arboreal predators. Older ants in the genus Sphecomyrmodes have been found in 99 million year-old amber from Myanmar.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sphecomyrma_freyi_AMNH-NJ943B.jpg/220px-Sphecomyrma_freyi_AMNH-NJ943B.jpg"
+
+                }
+
+            ]
+        },
+
+        {
+            "period": "Paleogene",
+            "upper": "66 Mya",
+            "lower": "23 Mya",
+            "data": [
+                {
+                    "name": "ants",
+                    "description": "Ants became dominant after adaptive radiation at the beginning of the Paleogene period. By the Oligocene and Miocene, ants had come to represent 20–40% of all insects found in major fossil deposits. Of the species that lived in the Eocene epoch, around one in 10 genera survive to the present. Genera surviving today comprise 56% of the genera in Baltic amber fossils (early Oligocene), and 92% of the genera in Dominican amber fossils (apparently early Miocene).",
+                    "url": "https://1.bp.blogspot.com/-KbM5aWIfykI/XGgyr7ezUCI/AAAAAAAAMmA/iYlLu0Y2aYsi8zDjDxTo0KAzN1d2w5ZAQCLcBGAs/s1600/Drone-Ant-fossil-Eocene-epoch-Florissant-formation-Teller-County-Colorado-USA.jpg"
+                },
+                {
+                    "name": "butterfly",
+                    "description": " The earliest known butterfly fossils are from the mid Eocene epoch, between 40-50 million years ago.[dubious – discuss] Their development is closely linked to the evolution of flowering plants, since both adult butterflies and caterpillars feed on flowering plants. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Prodryas.png"
+                },
+                {
+                    "name": "beetle",
+                    "description": " the beetle fauna of the Paleocene is comparatively poorly investigated. In contrast, the knowledge on the Eocene beetle fauna is very good. The reason is the occurrence of fossil insects in amber and clay slate sediments.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/COLE_Belidae_Agathinus_tridens.png/220px-COLE_Belidae_Agathinus_tridens.png"
+                }
+            ]
+        },
+
+        {
+            "period": "Neogene",
+            "upper": "23 Mya",
+            "lower": "2.6 Mya",
+            "data": [
+                {
+                    "name": "beetle",
+                    "description": "The most important sites for beetle fossils of the Neogene are situated in the warm temperate and to subtropical zones. One of the most important fossil sites for insects of the Pliocene is Willershausen near Göttingen, Germany with excellently preserved beetle fossils of various families (longhorn beetles, weevils, ladybugs and others) as well as representatives of other orders of insects. In the Willershausen clay pit so far 35 genera from 18 beetle families have been recorded, of which six genera are extinct. The Pleistocene beetle fauna is relatively well known, who used the composition of the beetle fauna to reconstruct climate conditions in the Rocky Mountains and on Beringia, the former land bridge between Asia and North America.",
+                    "url": "http://warehouse1.indicia.org.uk/upload/p18sh5607ug4211ou15ip4u614fh7.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -8,13 +8,15 @@
 $mdc-theme-primary: #118855;
 #banner {
     width: calc(100% - 2em);
-    height: 350px;
+    height: 450px;
     color: white;
     background: $mdc-theme-primary url("../assets/trex.png");
     background-repeat: no-repeat;
     background-position: right 50px;
     background-attachment: fixed;
     padding: 1em;
+    margin-top: -100px;
+    padding-top: 100px;
     img {
         display: block;
         width: 150px;
@@ -41,6 +43,11 @@ $mdc-theme-primary: #118855;
             border-radius: 20px;
         }
     }
+}
+@media only screen and (max-width: 480px) {
+  #banner {
+      background: #118855;
+  }
 }
 </style>
 <script>

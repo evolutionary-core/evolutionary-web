@@ -3,6 +3,21 @@
         <div class="banner">
             <h1>{{ specie.toUpperCase() }}</h1>
         </div>
+        <div class="period" v-for="period in evo" :key="period.period" >
+          <h1 class="period">{{period.period}} era</h1>
+          <center><span>{{period.upper}} to {{period.lower}}</span></center>
+          <br>
+          <mdc-layout-grid>
+            <mdc-layout-cell class="specie" align="top" v-for="specie in period.data" :key="specie.url" desktop=4 tablet=4 phone="4" >
+              <img :src="specie.url" :alt="specie.name">
+              <h2 v-if="typeof specie.name === 'string'">{{specie.name}}</h2>
+              <h2 v-else v-for="name in specie.name" :key="name">{{name}}</h2>
+              <p>
+                {{specie.description}}
+              </p>
+            </mdc-layout-cell>
+          </mdc-layout-grid>
+        </div>
     </div>
 </template>
 <style lang="scss" scoped>
@@ -27,6 +42,9 @@ h1{
     animation: long infinite 1s ease-in;
   }
 }
+h1.period {
+  color: black;
+}
 @keyframes long {
   0% {
     border-right: 5px solid darken($mdc-theme-primary, 50%);
@@ -41,12 +59,22 @@ h1{
     border-left: 0px darken($mdc-theme-primary, 50%);
   }
 }
+.specie {
+  border: $mdc-theme-primary solid 2px;
+  padding: 2px;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+}
 </style>
 <script>
+
 export default {
     data() {
         return {
-            specie: this.$route.params.name
+            specie: this.$route.params.name,
+            evo: require(`../data/${this.$route.params.name}.json`).evolution_data,
         }
     }
 }

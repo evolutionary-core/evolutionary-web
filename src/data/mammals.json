@@ -1,0 +1,238 @@
+{
+   "id": "mammal",
+    "evolution_data": [
+        {
+            "period": "Carboniferous",
+            "upper": "359 Mya",
+            "lower": "299 Mya",
+            "data": [
+                {
+                    "name": "Amniote",
+                    "description": "The first fully terrestrial vertebrates were amniotes — their eggs had internal membranes that allowed the developing embryo to breathe but kept water in.\n Within a few million years, two important amniote lineages became distinct: mammals' synapsid ancestors and the sauropsids, from which lizards, snakes, turtles/tortoises, crocodilians, dinosaurs, and birds are descended.[4] The earliest known fossils of synapsids and sauropsids (such as Archaeothyris and Hylonomus, respectively) date from about 320 to 315 million years ago.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Archaeothyris_BW.jpg/250px-Archaeothyris_BW.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Permian",
+            "upper": "298 Mya",
+            "lower": "252 Mya",
+            "data": [
+                {
+                    "name": "Synapsids",
+                    "description": "The pelycosaurs spread and diversified, becoming the largest terrestrial animals in the latest Carboniferous and Early Permian periods, ranging up to 6 metres (20 ft) in length. They were sprawling, bulky, possibly cold-blooded, and had small brains.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Moschops_BW.jpg/220px-Moschops_BW.jpg"
+                },
+                {
+                    "name": "Therapsids",
+                    "description": "The therapsids, a more advanced group of synapsids, appeared during the Middle Permian and included the largest terrestrial animals in the Middle and Late Permian. They included herbivores and carnivores, ranging from small animals the size of a rat (e.g.: Robertia), to large, bulky herbivores a ton or more in weight (e.g.: Moschops). After flourishing for many millions of years, these successful animals were all but wiped out by the Permian-Triassic mass extinction about 250 mya, the largest known extinction in Earth's history. \n Only a few therapsids went on to be successful in the new early Triassic landscape",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pristeroognathus_DB.jpg/220px-Pristeroognathus_DB.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Triassic",
+            "upper": "252 Mya",
+            "lower": "201 Mya",
+            "data": [
+                {
+                    "name": "Cynodonts",
+                    "description": "The cynodonts were small, mammal-like creatures that lived in burrows. They probably laid eggs may have been warm-blooded. The cynodonts were the only mammal-like reptiles to survive to the Jurassic, in fact they nearly made it into the Cretaceous, and definitely coexisted with many of the major dinosaurs.",
+                    "url": "http://1.bp.blogspot.com/-3HvnHzuMxwI/VAZf9guxRYI/AAAAAAAADGk/o3lTYVD7StQ/s1600/800px-Dicynodont_from_PolandDB.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Jurassic",
+            "upper": "201 Mya",
+            "lower": "145 Mya",
+            "data": [
+                {
+                    "name": "Tritylodon",
+                    "description": "Tritylodon (Greek for 3 cusped tooth) is an extinct genus of tritylodonts, one of the most advanced group of cynodont therapsids. They lived in the Early Jurassic and possibly Late Triassic periods along with dinosaurs. They also shared a lot of characteristics with mammals, and were once considered mammals because of overall skeleton construction. That was changed due to them retaining the vestigial reptilian jawbones and a different skull structure. Tritylodons are now regarded as non-mammalian synapsids.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tritylodon_BW.jpg"
+                },
+
+                {
+                    "name": "mammal",
+                    "description": "Late Triassic vertebrates like Eozostrodon, Megazostrodon and Sinoconodon appear to have been intermediate \"missing links\" between therapsids and mammals, and even in the early Jurassic period, Oligokyphus possessed reptilian ear and jaw bones at the same time as it showed every other sign (rat-like teeth, the habit of suckling its young) of being a mammal.",
+                    "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oligokyphus_BW.jpg/500px-Oligokyphus_BW.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": "mammal",
+                    "description": "By the middle of the Cretaceous period, about 100 million years ago,three different kinds of mammals had appeared - Monotremes, Marsupials, Placental mammals.After the Cretaceous period, mammals took over many of the ecological roles that dinosaurs previously had.",
+                    "url": "https://i.pinimg.com/originals/77/74/cc/7774cc80e7e69e2ed2f147871d9b6450.png"
+                },
+
+                {
+                    "name": "Monotremes",
+                    "description": " Monotremes are oviparous, meaning that they lay eggs",
+                    "url": "https://ih0.redbubble.net/image.57057848.6730/raf,750x1000,075,t,e0e1dd:064437a66d.jpg"
+                },
+
+                {
+                    "name": "Marsupials",
+                    "description": "Marsupials are viviparous, meaning that they give birth to live young. In marsupials, the young develop within a pouch on the mother’s body for some time after birth.",
+                    "url": "https://i.stack.imgur.com/D2nkZ.jpg"
+                },
+
+                {
+                    "name": "Placental mammals",
+                    "description": "Placental mammals are also viviparous, but in this group, the fetus typically develops within the mother’s reproductive system for a longer time and receives nourishment through a blood-rich structure called the placenta.",
+                    "url": "http://www.desertbruchid.net/4_GB_Lecture_figs_f/4_GB_24_AnimaliaVert_Fig_f/Mammals_Placentals.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Cenozoic Era",
+            "upper": "66 Mya",
+            "lower": "present",
+            "data": [
+                {
+                    "name": "Monotremes",
+                    "description": "The order Monotremata the monotremes, is the only order in the subclass Prototheria. Monotremes probably evolved before other kinds of mammals. Just three species exist today: \n The duckbill platypus is adapted to life around rivers or streams in Australia. \n Two echidna species live in dry woodlands or deserts in Australia and New Guinea.",
+                    "url": "https://ih0.redbubble.net/image.57057848.6730/raf,750x1000,075,t,e0e1dd:064437a66d.jpg"
+                },
+                {
+                    "name": "Marsupials",
+                    "description": "The marsupials had previously been classified in one order, Marsupialia, but are now divided into at least seven orders within the super order Marsupialia. The majority of about 280 species of marsupials live in Australia, but some live in New Guinea and the Americas. The Virginia opossum is the only marsupial native to the United States. Scientists think that marsupials began to evolve in isolation when Australia and New Guinea drifted away from the other continents more than 40 million years ago. ",
+                    "url": "https://i.stack.imgur.com/D2nkZ.jpg"
+                },
+
+                {
+                    "name": ["Anatalavis","ducks","geese"],
+                    "description": "Anatalavis is genus of prehistoric birds related to ducks and geese, perhaps in particular the magpie-goose. The species Anatalavis rex – formerly placed in Telmatornis – is known from the Hornerstown Formation (Late Cretaceous or Early Paleocene, some 66 million years ago) of New Jersey.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Magpie_Goose_taking_off.jpg"
+                },
+
+                {
+                    "name": "Placental Mammals",
+                    "description": "Nearly 95 percent of all mammalian species are placental mammals, making up the infraclass Eutheria of the subclass Theria. ",
+                    "url": "http://www.desertbruchid.net/4_GB_Lecture_figs_f/4_GB_24_AnimaliaVert_Fig_f/Mammals_Placentals.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Xenarthra","armadillo","sloths"],
+                    "description": "It currently consists of anteaters, tree sloths, and armadillos. Xenarthrans originated in South America during the Paleocene about 59 million years ago.[1] They evolved and diversified extensively in South America during the continent's long period of isolation in the early to mid Cenozoic Era. The name Xenarthra, which means \"strange joints\", was chosen because their vertebral joints have extra articulations unlike other mammals. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Choloepus_hoffmanni_%28Puerto_Viejo%2C_CR%29_crop.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Lagomorpha","hares","rabbits","pikas"],
+                    "description": "The lagomorphs are the members of the taxonomic order Lagomorpha, of which there are two living families: the Leporidae (hares and rabbits) and the Ochotonidae (pikas). Although lagomorphs are more closely related to rodents than any other mammals,[10] the two orders still have some major differences. Lagomorphs differ from rodents in that the former have four incisors in the upper jaw (not two, as in the Rodentia). Also, lagomorphs are almost strictly herbivorous, unlike rodents, many of which will eat both meat and vegetable matter",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Rodentia","rodents","rats","mice","squirrrels","chipmunks","beavers"],
+                    "description": "Rodents (from Latin Rodere, \"to gnaw\") are mammals of the order Rodentia, which are characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. About 40% of all mammal species are rodents (2,277 species); they are found in vast numbers on all continents except Antarctica. They are the most diversified mammalian order and live in a variety of terrestrial habitats, including human-made environments. \n Species can be arboreal, fossorial (burrowing), or semiaquatic. Well-known rodents include mice, rats, squirrels, prairie dogs, chipmunks, chinchillas porcupines, beavers, guinea pigs, hamsters, gerbils and capybaras. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rodent_collage.jpg/290px-Rodent_collage.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Primates","baboon","great apes","capuchin","howler","squirrel monkey"],
+                    "description": "A primate is a eutherian mammal constituting the taxonomic order Primates. Primates arose 85–55 million years ago from small terrestrial mammals (Primatomorpha), which adapted to living in the trees of tropical forests: many primate characteristics represent adaptations to life in this challenging environment, including large brains, visual acuity, color vision, altered shoulder girdle, and dexterous hands. \n Common names for the simians are the (Old World) baboons, macaques, gibbons, and great apes; and the (New World) capuchins, howlers and squirrel monkeys.",
+                    "url": "https://static01.nyt.com/images/2017/01/19/science/19MATTER/19MATTER-jumbo.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Chiroptera","bats"],
+                    "description": "Chiropetra, the bats , are the only mammals that truly fly. More than 900 species live throughout the world, except in polar environments.",
+                    "url": "https://sites.google.com/a/pleasantonusd.net/order-chiroptera/_/rsrc/1492389497946/home/imgres.jpg?height=307&width=400"
+                },
+
+                {
+                    "name": ["Placental Mammals","Insectivora","shrews","hedgehogs","moles"],
+                    "description": "The order Insectivora includes about 390 species of shrews, hedgehogs, and moles. Most members of this order are insectivores, but not all insectivores are members of the order Insectivora.",
+                    "url": "https://www.thoughtco.com/thmb/rIkoO5Fbg05LxaKt2VyD4SqMx9I=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/2080092-56a006bc3df78cafda9fb1c0.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Carnivora","carnivores","cat","dog"],
+                    "description": "Carnivora includes over 280 species of placental mammals.\"Carnivore\" can refer to any meat-eating organism. Carnivorans are the most diverse in size of any mammalian order, ranging from the least weasel (Mustela nivalis) to the polar bear, to the southern elephant seal. \n Carnivorans have teeth and claws adapted for catching and eating other animals. Many hunt in packs and are social animals, giving them an advantage over larger prey. Some carnivorans, such as cats and pinnipeds, depend entirely on meat for their nutrition. Others, such as raccoons and bears, are more omnivorous, depending on the habitat. The giant panda is largely a herbivore, but also feeds on fish, eggs and insects. The polar bear subsists mainly on seals. \n Carnivorans are split into two suborders: Feliformia (\"catlike\") and Caniformia (\"doglike\").",
+                    "url": "https://www.exploringnature.org/graphics/posters/carnivores_poster72.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Artiodactyla","pigs","sheep","deer","goat","cattle","camels","giraffes","llamas"],
+                    "description": "The even-toed ungulates (Artiodactyla, from Ancient Greek ἄρτιος (ártios), meaning 'even', and δάκτυλος (dáktylos), meaning 'finger/toe') are ungulates - hoofed animals - which bear weight equally on two (an even number) of the five toes: their third and fourth toes. The other three toes are either present, absent, vestigial, or pointing posteriorly. \nThe roughly 220 land-based even-toed ungulate species include pigs, peccaries, hippopotamuses, camels, llamas, alpacas, mouse deer, deer, giraffes, antelopes, sheep, goats, and cattle. Many of these are of great dietary, economic, and cultural importance to humans.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Artiodactyla.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Perissodactyla","horses","zebra","asses","rhinoceroses"],
+                    "description": "Odd-toed ungulates, mammals which constitute the taxonomic order Perissodactyla (from the Ancient Greek περισσός perissós, \"uneven\"; and δάκτυλος dáktylos, \"finger, toe\"), are hoofed animals—ungulates—which bear most of their weight on one (an odd number) of the five toes: the third toe. The non-weight-bearing toes are either present, absent, vestigial, or positioned posteriorly. The order includes about 17 species divided into three families: Equidae (horses, asses, and zebras), Rhinocerotidae (rhinoceroses), and Tapiridae (tapirs).",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Perissodactyl.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Cetacea","porpoise","dolphins","beaked whale","whale"],
+                    "description": "Cetaceans are aquatic mammals constituting the infraorder Cetacea. There are around 89 living species, which are divided into two parvorders. The first is the Odontoceti, the toothed whales, which consist of around 70 species, including the dolphin (which includes killer whales), porpoise, beluga whale, narwhal, sperm whale, and beaked whale. The second is the Mysticeti, the baleen (from Latin: balæna, lit. 'whale') whales, which have a filter-feeder system, and consist of 15 species divided into 3 families, and include the right whale, bowhead whale, rorqual, pygmy right whale, and gray whale.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Cetacea.jpg/310px-The_Cetacea.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Sirenia","sea cows","dugong","manatees"],
+                    "description": "The Sirenia, commonly referred to as sea cows or sirenians, are an order of fully aquatic, herbivorous mammals that inhabit swamps, rivers, estuaries, marine wetlands, and coastal marine waters. The Sirenia currently comprise the families Dugongidae (the dugong) and Trichechidae (manatees) with a total of four species. The Protosirenidae (Eocene sirenians) and Prorastomidae (terrestrial sirenians) families are extinct. Sirenians are classified in the clade Paenungulata, alongside the elephants and the hyraxes, and evolved in the Eocene 50 million years ago. The Dugongidae diverged from the Trichechidae in the late Eocene or early Oligocene.",
+                    "url": "https://i.ytimg.com/vi/BMu7A7PCFsE/maxresdefault.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Probscidea","elephant"],
+                    "description": "The Proboscidea are a taxonomic order of afrotherian mammals containing one living family (Elephantidae) and several extinct families. In addition to their enormous size, later proboscideans are distinguished by tusks and long, muscular trunks; these features were less developed or absent in the smaller early proboscideans. Beginning in the mid Miocene, most members of this order were very large animals. The largest land mammal today is the African elephant weighing up to 10.4 tonnes with a shoulder height of up to 4 metres (13.1 ft).",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/AfricanElephant.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Macroscelidea","elephant shrew"],
+                    "description": "Elephant shrews, also called jumping shrews or sengis, are small insectivorous mammals native to Africa, belonging to the family Macroscelididae, in the order Macroscelidea. Their traditional common English name \"elephant shrew\" comes from a perceived resemblance between their long noses and the trunk of an elephant, and their superficial similarity with shrews (family Soricidae) in the order Eulipotyphla. Elephant shrews, also called jumping shrews or sengis, are small insectivorous mammals native to Africa, belonging to the family Macroscelididae, in the order Macroscelidea. Their traditional common English name \"elephant shrew\" comes from a perceived resemblance between their long noses and the trunk of an elephant, and their superficial similarity with shrews (family Soricidae) in the order Eulipotyphla.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/1200px-Rhynchocyon_petersi_from_side.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Pholidota","scaly anteaters","pangolins"],
+                    "description": "Pangolins or scaly anteaters are mammals of the order Pholidota (from the Greek word φολῐ́ς, \"horny scale\"). The one extant family, Manidae, has three genera: Manis, which comprises four species living in Asia; Phataginus, which comprises two species living in Africa; and Smutsia, which comprises two species also living in Africa.[3] These species range in size from 30 to 100 cm (12 to 39 in). A number of extinct pangolin species are also known. \n Pangolins have large, protective keratin scales covering their skin; they are the only known mammals with this feature. They live in hollow trees or burrows, depending on the species. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate and produce a litter of one to three offspring, which are raised for about two years.",
+                    "url": "https://ucmp.berkeley.edu/mammal/eutheria/pangolin2.gif"
+                },
+
+                {
+                    "name": ["Placental Mammals","Tubulidentata","Aardvark"],
+                    "description": "Orycteropodidae is a family of afrotherian mammals. Although there are many fossil species, the only species surviving today is the aardvark, Orycteropus afer. Orycteropodidae is recognized as the only family within the order Tubulidentata, so the two are effectively synonyms. \n Aardvarks had originally been categorized as relatives of American anteaters in the order Edentata. But their unique type of teeth and other morphological characteristics had made it clear that aardvarks are not closely related to any other living mammals. Since the end of the 19th century, they are placed in their own separate order Tubulidentata. Both the fossil record and genetic studies have corroborated that separate status. All similarities to American anteaters have evolved independently as adaptations to eating ants. \n Orycteropodidae members are polygynous, the females providing care for the young. They are territorial, and only cross paths to breed.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Porc_formiguer.JPG"
+                },
+
+                {
+                    "name": ["Placental Mammals","Scandentia","tree shrew"],
+                    "description": "The treeshrews (or tree shrews or banxrings) are small Euarchontoglire mammals native to the tropical forests of Southeast Asia. They make up the families Tupaiidae, the treeshrews, and Ptilocercidae, the pen-tailed treeshrew, and the entire order Scandentia. The 20 species are placed in five genera. Treeshrews have a higher brain to body mass ratio than any other mammal, including humans, but high ratios are not uncommon for animals weighing less than a kilogram. \n Though called 'treeshrews', and despite having previously been classified in Insectivora, they are not true shrews, and not all species live in trees. Among other things, treeshrews eat Rafflesia fruit. \n Among orders of mammals, treeshrews are closely related to primates, and have been used as an alternative to primates in experimental studies of myopia, psychosocial stress, and hepatitis.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anathana_ellioti.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Dermoptera","colugo"],
+                    "description": "Colugos are arboreal gliding mammals found in Southeast Asia, and the closest relative of the primates. Just two extant species make up the entire family Cynocephalidae and order Dermoptera. They are the most capable gliders of all gliding mammals, using flaps of extra skin between their legs to glide from higher to lower locations. They are also known as cobegos or flying lemurs, but they are not true lemurs, simply close relatives.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg/220px-Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg"
+                },
+
+                {
+                    "name": ["Placental Mammals","Hyracoidea","hyraxes","dassies"],
+                    "description": "Hyraxes, also called dassies,are small, thickset, herbivorous mammals in the order Hyracoidea. Hyraxes are well-furred, rotund animals with short tails. Five extant species are recognised; the rock hyrax (Procavia capensis) and the yellow-spotted rock hyrax (Heterohyrax brucei), which both live in isolated rock outcrops, called kopjes, the western tree hyrax (Dendrohyrax dorsalis), southern tree hyrax (D. arboreus), and eastern tree hyrax (D. validus).",
+                    "url": "https://ucmp.berkeley.edu/mammal/mesaxonia/hyrax.jpg"
+                }
+            ]
+        }
+
+
+    ]
+}

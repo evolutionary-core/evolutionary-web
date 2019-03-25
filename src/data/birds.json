@@ -1,0 +1,111 @@
+{
+   "id": "birds",
+    "evolution_data": [
+        {
+            "period": "Jurassic",
+            "upper": "201 Mya",
+            "lower": "145 Mya",
+            "data": [
+                {
+                    "name": ["Archaeopteryx","bird","dinosaur"],
+                    "description": " Archaeopteryx was the \"original bird\" or \"first bird\".  They were bird-like dinosaurs that is transitional between non-avian feathered dinosaurs and modern birds. Archaeopteryx lived in the Late Jurassic around 150 million years ago. \n Despite their small size, broad wings, and inferred ability to fly or glide, Archaeopteryx had more in common with other small Mesozoic dinosaurs than with modern birds. In particular, they shared the following features with the dromaeosaurids and troodontids: jaws with sharp teeth, three fingers with claws, a long bony tail, hyperextensible second toes (\"killing claw\"), feathers (which also suggest warm-bloodedness), and various features of the skeleton. ",
+                    "url": "https://ichef.bbci.co.uk/images/ic/720x405/p06ptdq8.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": "Confuciusornis",
+                    "description": "Confuciusornis is a genus of primitive crow-sized birds from the Early Cretaceous Period of the Yixian and Jiufotang Formations of China, dating from 125 to 120 million years ago. Like modern birds, Confuciusornis had a toothless beak, but close relatives of modern birds such as Hesperornis and Ichthyornis were toothed, indicating that the loss of teeth occurred convergently in Confuciusornis and living birds. \n It is the oldest known bird to have a beak."
+                },
+
+                {
+                    "name": "Confuciusornithidae",
+                    "description": " Confuciusornithidae is an extinct family of early birds known from the Early Cretaceous, found in northern China. They are descended from theropod dinosaurs and appeared about 27 million years after the genus Archaeopteryx, the first discovered transitional dinosaur between dinosaurs and birds. They are commonly placed as a sister group to Ornithothoraces, a group that contains all extant birds along with their closest extinct relatives. Confuciusornithidae consists of four genera, with type-specimens possessing both shafted and non-shafted (downy) feathers. They are also noted for their distinctive pair of ribbon-like tail feathers of disputed function. \n  Their wing anatomy also suggests a lack of flapping ability. Confusiusornithids are also noted for their beak and lack of teeth, similar to modern birds.",
+                    "url": "http://images.dinosaurpictures.org/Confuciusornis_big_0e3a.jpg"
+                },
+
+                {
+                    "name": "Iberomesornis",
+                    "description": "Iberomesornis (meaning \"Iberian=Spanish intermediate bird\") was a small, early, toothed bird that lived during the early Cretaceous period. It was capable of powered flight. It had tiny, spiky teeth in its beak and was the size of a sparrow. Its hip was primitive compared to modern birds; its ilium, ischium, and pubis were all parallel and directed backward. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iberomesornis-model.jpg/220px-Iberomesornis-model.jpg"
+
+                },
+
+                {
+                    "name": "Eoalulavis",
+                    "description": "Eoalulavis lived during the Barremian, in the Lower Cretaceous around 125 million years ago. The only known species is Eoalulavis hoyasi. Eoalulavis was the earliest bird that had good maneuverability while flying, even at low speeds (this extra flight control is obtained from a tuft of feathers on the thumb called the alula - it also helps in takeoffs and landings).",
+                    "url": "https://vignette.wikia.nocookie.net/fossil/images/5/59/Eoalulavis_.png/revision/latest?cb=20151215234558"
+                },
+
+                {
+                    "name": "Hesperornis",
+                    "description": "Hesperornis (meaning \"western bird\") was an early, flightless bird that lived during the late Cretaceous period. This diving bird was about 3 feet (1 m) long and had webbed feet, a long, toothed beak, and strong legs. Although it couldn't fly, Hesperornis was probably a strong swimmer and likely lived near coastlines and ate fish.",
+                    "url": "https://i5.walmartimages.com/asr/06f3d685-db21-4f1d-96f7-13eeaacc5a5f_1.ab6abbb7518e0fc1cc0ff9fd927cba11.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+                },
+
+                {
+                    "name": "Ichthyornis",
+                    "description": "Ichthyornis (meaning \"fish bird\") were 8 inch (20 cm) long, toothed, tern-like, extinct bird that date from the late Cretaceous period. It had a large head and beak. This powerful flyer is the oldest-known bird that had a keeled breastbone (sternum) similar to that of modern birds. It lived in flocks nesting on shorelines, and hunted for fish over the seas.",
+                    "url": "http://www.dododex.com/media/creature/ichthyornis.png"
+                },
+
+                {
+                    "name": "Mononykus",
+                    "description": " Mononykus (meaning \"single claw\") was a small, insect-eater from the Late Cretaceous period, about 72 million years ago. Mononykus was either a bird-like dinosaur (an advanced theropod) or a primitive bird; it possessed qualities of both groups of animals, and there is much scientific debate over which it is. Mononykus had short arms with one long, thick clawed finger on each hand (hence its name). It was lightly built, had long, thin legs.",
+                    "url": "http://www.dinosaur-world.com/feathered_dinosaurs/species/mononykus_olecranus.gif"
+                }
+
+            ]
+        },
+
+        {
+            "period": "Cenozoic Era",
+            "upper": "66 Mya",
+            "lower": "present",
+            "data": [
+                {
+                    "name": ["Phorusrhacids","terror birds"],
+                    "description": "Phorusrhacids, colloquially known as terror birds, are an extinct clade of large carnivorous flightless birds that were the largest species of apex predators in South America during the Cenozoic era; their temporal range covers from 62 to 1.8 million years (Ma) ago. \n Most phorusrhacids were very fast runners. All members possessed a large, sharp beak, a powerful neck and sharp talons. However, even with these attributes, the phorusrhacids are often assumed to have preyed on relatively small animals (about the size of a rabbit) that could be dispatched with a minimum of struggle. This is due to the fact that with the phorusrhacids' beak proportions, the jaw could not generate a great deal of bite force with which to kill the prey. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Llallawavis_scagliai.jpg/220px-Llallawavis_scagliai.jpg"
+                },
+                {
+                    "name": "Gastornis",
+                    "description": "Gastornis is an extinct genus of large flightless birds that lived during the late Paleocene and Eocene epochs of the Cenozoic era.\n Gastornis species were very large birds, and have traditionally been considered to be predators of small mammals. However, several lines of evidence, including the lack of hooked claws in known Gastornis footprints and studies of their beak structure have caused scientists to reinterpret these birds as herbivores that probably fed on tough plant material and seeds.",
+                    "url": "https://www.newdinosaurs.com/wp-content/uploads/2016/11/681_gastornis_smnt2000.jpg"
+                },
+
+                {
+                    "name": ["Anatalavis","ducks","geese"],
+                    "description": "Anatalavis is genus of prehistoric birds related to ducks and geese, perhaps in particular the magpie-goose. The species Anatalavis rex – formerly placed in Telmatornis – is known from the Hornerstown Formation (Late Cretaceous or Early Paleocene, some 66 million years ago) of New Jersey.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Magpie_Goose_taking_off.jpg"
+                },
+
+                {
+                    "name": ["Odontopteryx","pelicans","storks"],
+                    "description": "Odontopteryx is a genus of the prehistoric pseudotooth birds or pelagornithids. These were probably rather close relatives of either pelicans and storks, or of waterfowl, and are here placed in the order Odontopterygiformes to account for this uncertainty. \n O. toliapica is among the smallest pseudotooth birds known to date – but this still means that to would have rivalled, if not exceeded, most living albatrosses in wingspan and the brown pelican (Pelecanus occidentalis) in bulk. In life, its head (including the beak) would have been 20–25 cm (8–10 in) long. Unlike in most other pseudotooth birds, its \"teeth\" are slanted forwards.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Odontopteryx.jpg/220px-Odontopteryx.jpg"
+                },
+
+                {
+                    "name": ["Palaeognathae","flightless birds","kiwis","ostriches","emus","rheas"],
+                    "description": "No unambiguously paleognathous fossil birds are known until the Cenozoic. Paleognathes share a pattern of grooves in the horny covering of the bill. This covering is called the rhamphotheca. The paleognath pattern has one central strip of horn, with long, triangular, strips to either side. Paleognaths as a whole tend to have proportionally small brains, and are among the living birds with the most limited cognitive abilities. Kiwis are exceptional, however, and have large brains comparable to those of parrots and songbirds, though evidence for similar levels of behaviour complexity are currently lacking.",
+                    "url": "https://vignette.wikia.nocookie.net/allbirdsoftheworld/images/a/a5/Palaeognathae_diversity.png/revision/latest?cb=20161121002948"
+                },
+
+                {
+                    "name": ["Neognathae","living birds","pigeons","owls","sparrow","parrots"],
+                    "description": "The Neognathae include virtually all living birds; exceptions being their sister taxon (Palaeognathae), which contains the tinamous and the flightless ratites. There are nearly 10,000 species of neognaths. The neognaths have fused metacarpals, an elongate third finger, and 13 or fewer vertebrae. They differ from the Palaeognathae in features like the structure of their jawbones. \"Neognathae\" means \"new jaws\" ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Passer_domesticus_male_%2815%29.jpg/220px-Passer_domesticus_male_%2815%29.jpg"
+                }
+
+
+            ]
+        }
+    ]
+}

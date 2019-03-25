@@ -1,11 +1,11 @@
 <template>
   <div class="app">
     <mdc-layout-app>
-      <mdc-toolbar drawer-type="temporary" slot="toolbar">
+      <mdc-toolbar slot="toolbar" waterfall>
         <mdc-toolbar-row>
           <mdc-toolbar-section align-start >
             <mdc-toolbar-menu-icon event="toggle-drawer"></mdc-toolbar-menu-icon>
-            <mdc-toolbar-title>Evolutionary</mdc-toolbar-title>
+            <a href="#/" style="text-decoration: none; color: white; margin-top: 10px;"><mdc-toolbar-title>Evolutionary</mdc-toolbar-title></a>
           </mdc-toolbar-section>
         </mdc-toolbar-row>
       </mdc-toolbar>

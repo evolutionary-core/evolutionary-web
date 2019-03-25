@@ -114,8 +114,7 @@ export default {
         "reptiles",
         "mammals",
         "birds",
-        "amphibians",
-        "pre-mammals"
+        "insects",
       ]
     }
   },
