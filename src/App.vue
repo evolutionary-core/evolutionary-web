@@ -16,7 +16,9 @@
         </mdc-drawer-list>
       </mdc-drawer>
       <main class="content">
-        <router-view />
+        <transition name="route">
+          <router-view/>
+        </transition>
       </main>
     </mdc-layout-app>
   </div>
@@ -48,5 +50,32 @@
     width: 100%;
     min-height: 100%;
     margin: 0;
+  }
+
+  .route-enter-active {
+    animation: 0.75s breezeIn;
+  }
+  .route-leave-active {
+    animation: 0.25s breezeOut;
+  }
+  @keyframes breezeIn {
+    from {
+      opacity: 0;
+      transform: translateY(100px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+  @keyframes breezeOut {
+    from {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+    to {
+      opacity: 0;
+      transform: translateY(100px);
+    }
   }
 </style>
