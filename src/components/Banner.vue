@@ -47,6 +47,7 @@ $mdc-theme-primary: #118855;
 @media only screen and (max-width: 480px) {
   #banner {
       background: #118855;
+      height: 300px;
   }
 }
 </style>
