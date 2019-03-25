@@ -1,22 +1,19 @@
 <template>
-    <div id="specie">
+    <div id="specie" style="text-align: center;">
         <div class="banner">
             <h1>{{ specie.toUpperCase() }}</h1>
+            <b style="color:white;"> Slide to select era below </b>
         </div>
-        <div class="period" v-for="period in evo" :key="period.period" >
-          <h1 class="period">{{period.period}} era</h1>
-          <center><span>{{period.upper}} to {{period.lower}}</span></center>
-          <br>
-          <mdc-layout-grid>
-            <mdc-layout-cell class="specie" align="top" v-for="specie in period.data" :key="specie.url" desktop=4 tablet=4 phone="4" >
-              <img :src="specie.url" :alt="specie.name">
-              <h2 v-if="typeof specie.name === 'string'">{{specie.name}}</h2>
-              <h2 v-else v-for="name in specie.name" :key="name">{{name}}</h2>
-              <p>
-                {{specie.description}}
-              </p>
-            </mdc-layout-cell>
-          </mdc-layout-grid>
+        <div class="selection">
+          <mdc-slider min=0 :max='evo.length - 1' step=1 display-markers v-model="index" />
+          <span style="float: left;"> PAST </span> <span style="float: right">PRESENT</span>
+        </div>
+        <div class="card">
+          <h4>{{evo[index].period.toUpperCase()}} ERA </h4>
+          <h1 style="color: black;">{{evo[index].upper.split(" ")[0]}} to {{evo[index].lower.split(" ")[0]}}</h1>
+          <h4>MILLION YEARS AGO</h4>
+          <hr>
+          <mdc-button unelevated :href="`#/species/${specie}/${selected}`">Explore!</mdc-button>
         </div>
     </div>
 </template>
@@ -42,8 +39,11 @@ h1{
     animation: long infinite 1s ease-in;
   }
 }
-h1.period {
-  color: black;
+.card{
+  max-width: 300px;
+  border:#118855 solid 2px;
+  margin: 0 auto;
+  padding-bottom: 10px;
 }
 @keyframes long {
   0% {
@@ -59,13 +59,35 @@ h1.period {
     border-left: 0px darken($mdc-theme-primary, 50%);
   }
 }
-.specie {
-  border: $mdc-theme-primary solid 2px;
-  padding: 2px;
-  text-align: center;
-  img {
-    width: 100%;
+.selection{
+  display: block;
+  max-width: 900px;
+  height: 75px;
+  margin: 0 auto;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2);
+  position: relative;
+  top: -25px;
+  padding: 5px;
+  padding-bottom: 7.5px;
+  background: #ffffff;
+  border-radius: 5px;
+  span {
+    color: white;
+    background: $mdc-theme-primary;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
   }
+}
+.mdc-slider {
+  width: 90%;
+  margin: auto;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.mdc-button{
+  margin: 0 auto;
 }
 </style>
 <script>
@@ -73,9 +95,15 @@ h1.period {
 export default {
     data() {
         return {
+            index: 0,
             specie: this.$route.params.name,
             evo: require(`../data/${this.$route.params.name}.json`).evolution_data,
         }
+    },
+    computed: {
+      selected(){
+        return this.evo[this.index].period;
+      }
     }
 }
 </script>

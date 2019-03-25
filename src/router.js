@@ -23,6 +23,11 @@ export default new Router({
       path: '/species/:name',
       name: "species",
       component: () => import(/* webpackChunkName: "species" */ './views/Species.vue')
+    },
+    {
+      path: '/species/:name/:era',
+      name: "era",
+      component: () => import(/* webpackChunkName: "species" */ './views/Era.vue')
     }
   ]
 })

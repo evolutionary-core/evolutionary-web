@@ -8,7 +8,7 @@
 $mdc-theme-primary: #118855;
 #banner {
     width: calc(100% - 2em);
-    height: 450px;
+    height: 350px;
     color: white;
     background: $mdc-theme-primary url("../assets/trex.png");
     background-repeat: no-repeat;
