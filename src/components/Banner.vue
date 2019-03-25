@@ -1,7 +1,7 @@
 <template>
     <div id="banner">
         <img src="@/assets/logo.png" alt="evolutionary logo" />
-        <h2> <span>Dictionary + evolution</span></h2>
+        <h2> <span>Evolution's Dictionary</span></h2>
     </div>
 </template>
 <style lang="scss" scoped>

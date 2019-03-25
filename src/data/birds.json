@@ -21,7 +21,8 @@
             "data": [
                 {
                     "name": "Confuciusornis",
-                    "description": "Confuciusornis is a genus of primitive crow-sized birds from the Early Cretaceous Period of the Yixian and Jiufotang Formations of China, dating from 125 to 120 million years ago. Like modern birds, Confuciusornis had a toothless beak, but close relatives of modern birds such as Hesperornis and Ichthyornis were toothed, indicating that the loss of teeth occurred convergently in Confuciusornis and living birds. \n It is the oldest known bird to have a beak."
+                    "description": "Confuciusornis is a genus of primitive crow-sized birds from the Early Cretaceous Period of the Yixian and Jiufotang Formations of China, dating from 125 to 120 million years ago. Like modern birds, Confuciusornis had a toothless beak, but close relatives of modern birds such as Hesperornis and Ichthyornis were toothed, indicating that the loss of teeth occurred convergently in Confuciusornis and living birds. \n It is the oldest known bird to have a beak.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Confuciusornis_male.jpg"
                 },
 
                 {
@@ -65,7 +66,7 @@
         },
 
         {
-            "period": "Cenozoic Era",
+            "period": "Cenozoic",
             "upper": "66 Mya",
             "lower": "present",
             "data": [

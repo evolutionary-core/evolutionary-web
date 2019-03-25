@@ -2,9 +2,10 @@
     <div id="specie" style="text-align: center;">
         <div class="banner">
             <h1>{{ specie.toUpperCase() }}</h1>
-            <b style="color:white;"> Slide to select era below </b>
+            
         </div>
         <div class="selection">
+          <b> DRAG SLIDER TO SELECT ERA </b>
           <mdc-slider min=0 :max='evo.length - 1' step=1 display-markers v-model="index" />
           <span style="float: left;"> PAST </span> <span style="float: right">PRESENT</span>
         </div>
@@ -62,7 +63,7 @@ h1{
 .selection{
   display: block;
   max-width: 900px;
-  height: 75px;
+  height: 100px;
   margin: 0 auto;
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2);
   position: relative;

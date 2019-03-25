@@ -3,8 +3,11 @@
         <div class="banner">
             <h2 style="color: white;">{{ name.toUpperCase() }} in</h2>
             <h1>{{era.toUpperCase()}} ERA</h1>
-            <b>Between {{eraData.upper}} and {{eraData.lower}}</b>
+            <b style="color: white;">Between {{eraData.upper}} and {{eraData.lower}}</b>
         </div>
+        <center>
+            <mdc-button style="margin-top: -20px; background: gold; color: black;" raised :href="`#/species/${name}`">{{`< BACK`}}</mdc-button>
+        </center>
         <mdc-layout-grid>
             <mdc-layout-cell class="specie" align="top" v-for="specie in eraData.data" :key="specie.url" desktop=4 tablet=4 phone="4" >
                 <img :src="specie.url" :alt="specie.name">
