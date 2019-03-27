@@ -27,7 +27,12 @@ export default new Router({
     {
       path: '/species/:name/:era',
       name: "era",
-      component: () => import(/* webpackChunkName: "species" */ './views/Era.vue')
+      component: () => import(/* webpackChunkName: "era" */ './views/Era.vue')
+    },
+    {
+      path: "/biblography",
+      name: "biblography",
+      component: () => import(/* webpackChunkName: "biblography" */ './views/Biblography.vue')
     }
   ]
 })

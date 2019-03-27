@@ -13,6 +13,7 @@
         <mdc-drawer-list>
             <mdc-drawer-item href="#/" start-icon="home">Home</mdc-drawer-item>
             <mdc-drawer-item href="#/about" start-icon="send">About Us</mdc-drawer-item>
+            <mdc-drawer-item href="#/biblography" start-icon="attachment">Biblography</mdc-drawer-item>
         </mdc-drawer-list>
       </mdc-drawer>
       <main class="content">
@@ -41,6 +42,7 @@
   @import "vue-mdc-adapter/dist/button/styles"; 
   @import "vue-mdc-adapter/dist/list/styles";
   @import "vue-mdc-adapter/dist/layout-grid/styles";
+  @import "vue-mdc-adapter/dist/linear-progress/styles";
   html {
     width: 100%;
     height: 100%;

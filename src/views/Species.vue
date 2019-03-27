@@ -2,7 +2,9 @@
     <div id="specie" style="text-align: center;">
         <div class="banner">
             <h1>{{ specie.toUpperCase() }}</h1>
-            
+            <center>
+              <mdc-button style="margin-top: 10px; background: gold; color: black;" raised :href="`#/`">{{`< BACK`}}</mdc-button>
+            </center>
         </div>
         <div class="selection">
           <b> DRAG SLIDER TO SELECT ERA </b>

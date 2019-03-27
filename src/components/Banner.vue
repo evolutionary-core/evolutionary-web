@@ -16,7 +16,7 @@ $mdc-theme-primary: #118855;
     background-attachment: fixed;
     padding: 1em;
     margin-top: -100px;
-    padding-top: 100px;
+    padding-top: 150px;
     img {
         display: block;
         width: 150px;

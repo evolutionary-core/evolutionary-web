@@ -10,7 +10,7 @@
         </center>
         <mdc-layout-grid>
             <mdc-layout-cell class="specie" align="top" v-for="specie in eraData.data" :key="specie.url" desktop=4 tablet=4 phone="4" >
-                <img :src="specie.url" :alt="specie.name">
+                <LazyImage :lazySrc="specie.url" :alt="specie.name" />
                 <h2 v-if="typeof specie.name === 'string'">{{specie.name}}</h2>
                 <h2 v-else>{{specie.name[0]}}</h2>
                 <p>
@@ -61,13 +61,14 @@ h1{
   border: $mdc-theme-primary solid 2px;
   padding: 2px;
   text-align: center;
-  img {
-    width: 100%;
-  }
 }
 </style>
 <script>
+import LazyImage from "@/components/Image.vue";
 export default {
+    components: {
+      LazyImage
+    },
     data() {
         return {
             name: this.$route.params.name,
