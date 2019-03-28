@@ -1,0 +1,229 @@
+{
+   "id": "human",
+    "evolution_data": [
+
+        {
+            "period": "Cretaceous",
+            "upper": "145 Mya",
+            "lower": "66 Mya",
+            "data": [
+                {
+                    "name": "Plesiadapis",
+                    "description": " An early stem-primate, Plesiadapis, still had claws and eyes on the side of the head, making it faster on the ground than in the trees, but it began to spend long times on lower branches, feeding on fruits and leaves.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Plesiadapis2.jpg"
+
+                }
+
+            ]
+        },
+
+        {
+            "period": "Paleocene",
+            "upper": "66 Mya",
+            "lower": "54.8 Mya",
+            "data": [
+                {
+                    "name": "Strepsirrhini",
+                    "description": "Strepsirrhini or Strepsirhini is a suborder of primates that includes the lemuriform primates, which consist of the lemurs of Madagascar, galagos (\"bushbabies\") and pottos from Africa, and the lorises from India and southeast Asia. Strepsirrhines are defined by their \"wet\" (moist) rhinarium (the tip of the snout) - hence the colloquial but inaccurate term \"wet-nosed\" ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suborder_Strepsirrhini.jpg/220px-Suborder_Strepsirrhini.jpg"
+                },
+                {
+                    "name": "Haplorrhini",
+                    "description": " Haplorhini (the haplorhines or the \"dry-nosed\" primates, the Greek name means \"simple-nosed\") is a suborder of primates containing the three living groups: prosimian tarsiers, simian monkeys, and apes. One of the earliest haplorrhines is Teilhardina asiatica, a mouse-sized, diurnal creature with small eyes. The Haplorrhini metabolism lost the ability to produce vitamin C, forcing all descendants to include vitamin C-containing fruit in their diet. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Totenkopfaeffchen.jpg/320px-Totenkopfaeffchen.jpg"
+                }
+            ]
+        },
+
+        {
+            "period": "Eocene",
+            "upper": "54.8 Mya",
+            "lower": "33.7 Mya",
+            "data": [
+                {
+                    "name": "Simians",
+                    "description": "The simians (infraorder Simiiformes) or Anthropoids are the monkeys, incl. apes, cladistically including: the New World monkeys or platyrrhines, and the Catarrhine clade consisting of the Cercopithecidae and apes (including humans). The simians are sister to the tarsiers, together forming the Haplorhines.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Old_%26_New_World_monkey_faces.JPG/640px-Old_%26_New_World_monkey_faces.JPG"
+                },
+                
+                {
+                    "name": "Platyrrhini",
+                    "description": "Platyrrhines, New World monkeys, have prehensile tails and males are color blind. Platyrrhini means flat-nosed, and their noses are flatter than those of other simians, with sideways-facing nostrils. The individuals whose descendants would become Platyrrhini are conjectured to have migrated to South America either on a raft of vegetation or via a land bridge (the hypothesis now favored).",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BrownSpiderMonkey_%28edit2%29.jpg/428px-BrownSpiderMonkey_%28edit2%29.jpg"
+                },
+                
+                {
+                    "name": "Catarrhini",
+                    "description": "Catarrhini is one of the two subdivisions of the higher primates (the other is the New World monkeys). Catarrhines include the Old World monkeys and the apes. Apes are further divided into the lesser apes or gibbons and the great apes, consisting of the orangutans, gorillas, chimpanzees, and humans. They are all native to Africa and Asia.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Macaca_arctoides.png/640px-Macaca_arctoides.png"
+                }
+            ]
+        },
+        
+        {
+            "period": "Oligocene",
+            "upper": "33.7 Mya",
+            "lower": "23.8 Mya",
+            "data": [
+                {
+                    "name": "Old World monkey",
+                    "description": "Catarrhini splits into 2 superfamilies, Old World monkeys (Cercopithecoidea) and apes (Hominoidea). The Old World monkeys is the common English name for a family of primates known taxonomically as the Cercopithecidae. Twenty-four genera and 138 species are recognized, making it the largest primate family. Old World monkey genera include baboons (genus Papio) and macaques (genus Macaca)'. Common names for other Old World monkeys include the talapoin, guenon, colobus, douc (douc langur, genus Pygathrix), vervet, gelada, mangabey (a group of genera), langur, mandrill, surili (sp. Presbytis), patas, and proboscis monkey. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Olive_baboon_Ngorongoro.jpg/528px-Olive_baboon_Ngorongoro.jpg"
+                },
+                
+                {
+                    "name": "Hominoidea",
+                    "description": "Catarrhini splits into 2 superfamilies, Old World monkeys (Cercopithecoidea) and apes (Hominoidea). Apes (Hominoidea) are a branch of Old World tailless simians native to Africa and Southeast Asia. They are the sister group of the Old World monkeys, together forming the catarrhine clade. They are distinguished from other primates by a wider degree of freedom of motion at the shoulder joint as evolved by the influence of brachiation. In traditional and non-scientific use, the term \"ape\" excludes humans, and is thus not equivalent to the scientific taxon Hominoidea. ",
+                    "url": "https://classconnection.s3.amazonaws.com/40/flashcards/4879040/jpg/mountain-gorillas-148BF6232DF7CE7ED94-thumb400.jpg"
+                },
+                
+                {
+                    "name": "Proconsul",
+                    "description": "Proconsul is an extinct genus of primates that existed from 23 to 25 million years ago.  Fossil remains are present in Eastern Africa including Kenya and Uganda. Proconsul was an early genus of catarrhine primates. They had a mixture of Old World monkey and ape characteristics. Proconsul's monkey-like features include thin tooth enamel, a light build with a narrow chest and short forelimbs, and an arboreal quadrupedal lifestyle. Its ape-like features are its lack of a tail, ape-like elbows, and a slightly larger brain relative to body size. Proconsul africanus is a possible ancestor of both great and lesser apes, including humans. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Proconsul_NT.jpg"
+                }
+            ]
+        },
+        
+        {
+            "period": "Miocene",
+            "upper": "23.8 Mya",
+            "lower": "5.3 Mya",
+            "data": [
+                {
+                    "name": "Hominidae",
+                    "description": "Hominidae (great ape ancestors) speciate from the ancestors of the gibbon (lesser apes). The Hominidae , whose members are known as great apes or hominids, are a taxonomic family of primates that includes eight extant species in four genera: Pongo, the Bornean, Sumatran and Tapanuli orangutan; Gorilla, the eastern and western gorilla; Pan, the common chimpanzee and the bonobo; and Homo, which includes modern humans and its extinct relatives (e.g., the Neanderthal), and ancestors, such as Homo erectus.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hominidae_%28extant_species%29.jpg/432px-Hominidae_%28extant_species%29.jpg"
+                },
+                
+                {
+                    "name": "Pierolapithecus catalaunicus",
+                    "description": "Pierolapithecus catalaunicus is thought to be a common ancestor of humans and the other great apes, or at least a species that brings us closer to a common ancestor than any previous fossil discovery. It had the special adaptations for tree climbing as do present-day humans and other great apes: a wide, flat rib cage, a stiff lower spine, flexible wrists, and shoulder blades that lie along its back.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pierolapithecus_catalaunicus_%28Pau%29_a_l%27Institut_Catal%C3%A0_de_Paleontologia_Miquel_Crusafont.JPG"
+                },
+                
+                {
+                    "name": "Pan (genus)",
+                    "description": "The genus Pan consists of two extant species: the common chimpanzee and the bonobo. The genus Pan is part of the subfamily Homininae, to which humans also belong. The lineages of chimpanzees[dubious – discuss] and humans separated in a process of speciation between roughly five to twelve million years ago, making them humanity's closest living relative.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Composite_image_of_male_chimpanzee_%28left%29_and_male_bonobo_%28right%29.jpg/640px-Composite_image_of_male_chimpanzee_%28left%29_and_male_bonobo_%28right%29.jpg"
+                },
+                
+                {
+                    "name": "Sahelanthropus tchadensis",
+                    "description": "Sahelanthropus tchadensis is an extinct species of the Hominini and is probably the ancestor to Orrorin that is dated to about 7 million years ago, during the Miocene epoch, possibly very close to the time of the chimpanzee–human divergence. Few specimens other than the partial skull, nicknamed Toumaï (\"hope of life\"), are known.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SahelanthropusCL.png"
+                },
+                
+                {
+                    "name": "Ardipithecus kadabba",
+                    "description": "Ardipithecus kadabba is the scientific classification given to fossil remains \"known only from teeth and bits and pieces of skeletal bones,\" originally estimated to be 5.8 to 5.2 million years old, and later revised to 5.77 to 5.54 million years. According to the first description, these fossils are close to the common ancestor of chimps and humans. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ardipithecus_kadabba_fossils.jpg"
+                }
+                
+            ]
+        },
+        
+        {
+            "period": "Pliocene",
+            "upper": "5.3 Mya",
+            "lower": "1.8 Mya",
+            "data": [
+                {
+                    "name": "Ardipithecus ramidus",
+                    "description": "Ardipithecus ramidus is a species of hominin classified as an australopithecine of the genus Ardipithecus. A. ramidus had a small brain, measuring between 300 and 350 cm3. This is about the same size as the modern bonobo and female common chimpanzee brain; it is much smaller than the brain of australopithecines like Lucy (400 to 550 cm3) and slightly over a fifth the size of the modern Homo sapiens brain.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ardi.jpg"
+                },
+                
+                {
+                    "name": "Australopithecus afarensis",
+                    "description": "A member of the Australopithecus afarensis left human-like footprints on volcanic ash in Laetoli, Kenya (Northern Tanzania), providing strong evidence of full-time bipedalism. Australopithecus afarensis lived between 3.9 and 2.9 million years ago, and is considered one of the earliest hominins—those species that developed and comprised the lineage of Homo and Homo's closest relatives after the split from the line of the chimpanzees. It is thought that A. afarensis was ancestral to both the genus Australopithecus and the genus Homo. Compared to the modern and extinct great apes, A. afarensis had reduced canines and molars, although they were still relatively larger than in modern humans.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Australopithecus_afarensis_new.JPG/440px-Australopithecus_afarensis_new.JPG"
+                },
+                
+                {
+                    "name": "Kenyanthropus platyops",
+                    "description": "Kenyanthropus platyops is a 3.5 to 3.2-million-year-old (Pliocene) hominin fossil. Kenyanthropus platyops, a possible ancestor of Homo, emerges from the Australopithecus. Stone tools are deliberately constructed.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kenyanthropus_platyops%2C_skull_%28model%29.JPG"
+                },
+                
+                {
+                    "name": "Australopithecus",
+                    "description": "Australopithecus apparently evolved in eastern Africa around 4 million years ago before spreading throughout the continent and eventually becoming extinct two million years ago. Australopithecus species played a significant part in human evolution, the genus Homo being derived from Australopithecus at some time after three million years ago. In addition, they were the first hominids to possess certain genes, known as the duplicated SRGAP2, which increased the length and ability of neurons in the brain.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australopithecusafarensis_reconstruction.jpg/492px-Australopithecusafarensis_reconstruction.jpg"
+                },
+                
+                {
+                    "name": "Homo habilis",
+                    "description": "Homo habilis is a proposed archaic species of Homo, which lived between roughly 2.1 and 1.5 million years ago. H. habilis is intermediate between Australopithecus and the somewhat younger Homo erectus and its classification in the genus Homo has been the subject of controversial debate since its original proposal. A main argument for its classification as the first Homo (\"human\") species was its use of flaked stone tools. However, evidence for earlier tool use (3.39 million years ago) by undisputed members of Australopithecus has been found",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Homo_habilis-2.JPG/398px-Homo_habilis-2.JPG"
+                }
+                
+            ]
+        },
+        
+        {
+            "period": "Pleistocene",
+            "upper": "1.8 Mya",
+            "lower": ".01 Mya",
+            "data": [
+                {
+                    "name": "Homo ergaster",
+                    "description": "Homo ergaster , also Homo erectus ergaster or African Homo erectus is an extinct chronospecies of the genus Homo that lived in eastern and southern Africa during the early Pleistocene, between about 1.9 million and 1.4 million years ago. Originally proposed as a separate species, H. ergaster is now mostly considered either an early form, or an African variety, of H. erectus. H. ergaster used more diverse and sophisticated stone tools than its predecessor, H. habilis. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Homo_ergaster.jpg/400px-Homo_ergaster.jpg"
+                },
+                
+                {
+                    "name": "Homo erectus",
+                    "description": "Homo erectus derives from early Homo or late Australopithecus. Homo erectus meaning 'upright man'.From its earliest appearance, H. erectus (in Africa also known as Homo ergaster) is distributed in East Africa and Southwest Asia. H. erectus later migrates throughout Eurasia, and is described in a number of subspecies. H. erectus is also the first known species to develop control of fire, by about 1.5 Ma. Evolution of dark skin at about 1.2 Ma.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Australopithecus_afarensis_new.JPG/440px-Australopithecus_afarensis_new.JPG"
+                },
+                
+                {
+                    "name": "Homo heidelbergensis",
+                    "description": "Homo heidelbergensis is an extinct species or subspecies of archaic humans in the genus Homo, which radiated in the Middle Pleistocene from about 700,000 to 300,000 years ago, known from fossils found in Southern Africa, East Africa and Europe. The skulls of this species share features with both Homo erectus and the anatomically modern Homo sapiens; its brain was nearly as large as that of Homo sapiens.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skull%2C_Natural_History_Museum%2C_London_-_DSCF0431.JPG/360px-Skull%2C_Natural_History_Museum%2C_London_-_DSCF0431.JPG"
+                },
+                
+                {
+                    "name": "Earliest Fossils of Homo sapiens",
+                    "description": "Fossils attributed to H. sapiens, along with stone tools, dated to approximately 300,000 years ago, found at Jebel Irhoud, Morocco yield the earliest fossil evidence for anatomically modern Homo sapiens. Modern human presence in East Africa (Gademotta), at 276 kya. A 177,000-year-old jawbone fossil discovered in Israel is the oldest human remains found outside Africa.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jebel_Irhoud_1._Homo_Sapiens.jpg/640px-Jebel_Irhoud_1._Homo_Sapiens.jpg"
+                },
+                
+                {
+                    "name": "Neanderthal",
+                    "description": "Neanderthals( Homo neanderthalensis or Homo sapiens neanderthalensis) are an extinct species or subspecies of archaic humans in the genus Homo, who lived within Eurasia from circa 400,000 until 40,000 years ago. Compared to modern humans, Neanderthals were stockier, with shorter legs and bigger bodies. There has been growing evidence for admixture between Neanderthals and anatomically modern humans, reflected in the genomes of all modern non-African populations, but not in the genomes of most sub-Saharan Africans. This suggests that interbreeding between Neanderthals and anatomically modern humans took place after the recent \"out of Africa\" migration, around 70,000 years ago.",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Neanderthalensis.jpg/423px-Neanderthalensis.jpg"
+                },
+                
+                {
+                    "name": "Homo sapiens idaltu",
+                    "description": "Homo sapiens idaltu (Afar: Idaltu; \"elder\" or \"first born\"), also called Herto Man, is the name given to a number of early modern human fossils. The recognition of H. s. idaltu as a valid subspecies of the anatomically modern human lineage would justify the description of contemporary humans with the subspecies name H. s. sapiens. Because of their early dating and unique physical characteristics, they represent the immediate ancestors of anatomically modern humans ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Homo_Sapiens_Idaltu.JPG/640px-Homo_Sapiens_Idaltu.JPG"
+                },
+                
+                {
+                    "name": "Peopling of Europe",
+                    "description": "European early modern humans (EEMH) in the context of the Upper Paleolithic in Europe refers to the early presence of anatomically modern humans in Europe. The term \"early modern\" is usually taken to include fossils of the Bohunician, Ahmarian, Aurignacian, Gravettian, Solutrean and Magdalenian, extending throughout the Last Glacial Maximum (LGM), covering the period of roughly 48,000 to 15,000 years ago, usually referred to as the Cro-Magnon. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cro-Magnon-male-skull.png/574px-Cro-Magnon-male-skull.png"
+                }
+                
+                
+            ]
+        },
+        
+        {
+            "period": "Holocene",
+            "upper": "0.01 Mya",
+            "lower": "Present",
+            "data": [
+                {
+                    "name": "Modern Humans",
+                    "description": "Extinction of late surviving archaic humans at the beginning of the Holocene (12 ka). Accelerated divergence due to selection pressures in populations participating in the Neolithic Revolution after 12 ka, e.g. East Asian types of ADH1B associated with rice domestication, or lactase persistence. ",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Minatogawa_Man_Restoration_model.jpg/675px-Minatogawa_Man_Restoration_model.jpg"
+                }
+                
+            ]
+        }
+    ]
+}
