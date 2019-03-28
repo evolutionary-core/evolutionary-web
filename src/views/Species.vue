@@ -1,7 +1,10 @@
 <template>
     <div id="specie" style="text-align: center;">
         <div class="banner">
-            <h1>{{ specie.toUpperCase() }}</h1>
+            <center> <h2 style="color: white;">TIMELINE of</h2> </center>
+            <h1>
+              {{ specie.toUpperCase() }}
+            </h1>
             <center>
               <mdc-button style="margin-top: 10px; background: gold; color: black;" raised :href="`#/`">{{`< BACK`}}</mdc-button>
             </center>
@@ -24,7 +27,7 @@
 $mdc-theme-primary: #118855;
 .banner {
     width: calc(100% - 50px);
-    height: 150px;
+    height: 180px;
     padding: 25px;
     background: $mdc-theme-primary;
 }
