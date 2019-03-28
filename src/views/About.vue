@@ -18,7 +18,7 @@
   </mdc-layout-grid>
     <mdc-layout-grid>
           <mdc-layout-cell class="card" desktop=6 tablet=8 phone=4 align="middle">
-            <img class="person" src="@/assets/hb.png" alt="rishabh chawla">
+            <img class="person" src="@/assets/rishabh.png" alt="rishabh chawla">
             <h1> Rishabh Chawla </h1>
             <mdc-button href="https://github.com/rishabh3112"> Github </mdc-button>
             <mdc-button href="https://linkedin.com/in/rishabh3112">LinkedIn </mdc-button>
@@ -28,7 +28,7 @@
             </p>
           </mdc-layout-cell>
           <mdc-layout-cell class="card" desktop=6 tablet=8 phone=4 align="middle">
-            <img class="person" src="@/assets/hb.png" alt="Dev Gupta">
+            <img class="person" src="@/assets/dev.png" alt="Dev Gupta">
             <h1> Dev Gupta </h1>
             <mdc-button href="https://github.com/devgupta2607"> Github </mdc-button>
             <mdc-button href="https://www.linkedin.com/in/devgupta2607/">LinkedIn </mdc-button>
