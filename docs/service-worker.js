@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.6a441881a7228509ae3ebfc37e24cc3f.js"
+  "precache-manifest.a9ced3dc59dd54ec4c89424320afc3f5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "evolutionary"});

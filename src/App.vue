@@ -1,5 +1,6 @@
 <template>
   <div class="app">
+    <a name="top"></a>
     <mdc-layout-app>
       <mdc-toolbar slot="toolbar" waterfall>
         <mdc-toolbar-row>

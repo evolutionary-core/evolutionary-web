@@ -18,6 +18,9 @@
                 </p>
             </mdc-layout-cell>
         </mdc-layout-grid>
+        <br>
+        <center><a href="#top"> Back to Top </a></center>
+        <br>
     </div>
 </template>
 <style lang="scss" scoped>

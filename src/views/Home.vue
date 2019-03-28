@@ -115,6 +115,7 @@ export default {
         "mammals",
         "birds",
         "insects",
+        "humans"
       ]
     }
   },
